@@ -1,0 +1,2 @@
+http://raw.githubusercontent.com/BlizTBr/scripts/main/Key%20System
+loadstring(game:HttpGet("http://raw.githubusercontent.com/BlizTBr/scripts/main/Key%20System"))
