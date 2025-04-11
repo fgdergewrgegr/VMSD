@@ -1,9 +1,0 @@
--- VLOD - VHCK LuaU Obfuscator Dumper
-1, 0, 0
-1, 0, 0
-1, 0, 0
-1, 0, 0
-1, 0, 0
-1, 0, 0
-1, 0, 0
-1, 0, 0
