@@ -1,0 +1,9 @@
+-- VLOD - VHCK LuaU Obfuscator Dumper
+table: 0x2e272950ccf3b75a
+table: 0xd11fe5a07a2545fa
+table: 0xca91a57405ebcc1a
+table: 0xa8129c8eea1f383a
+table: 0x6d71ad4b46935d4a
+table: 0x9b74b04e1a0be38a
+table: 0x57e72f8555d357fa
+table: 0xffe3ed82876d1d8a
