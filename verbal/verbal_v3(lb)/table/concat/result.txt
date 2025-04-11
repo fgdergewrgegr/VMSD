@@ -1,0 +1,5392 @@
+-- VLOD - VHCK LuaU Obfuscator Dumper
+loadstring
+game
+HttpGet
+https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source
+OrionLib
+https://raw.githubusercontent.com/VerbalHubz/Verbal-Hub/refs/heads/main/verbal%20hub%20v2%20orion
+Window
+MakeWindow
+Name
+Verbal Hub v3 Ftap
+HidePremium
+SaveConfig
+IntroEnabled
+IntroText
+Welcome To Verbal Hub V3 Ftap
+IntroIcon
+rbxassetid://112374567322808
+ConfigFolder
+Verbal Config
+GetService
+Players
+ReplicatedStorage
+LocalPlayer
+HttpService
+RunService
+UserInputService
+Debris
+GrabEvents
+WaitForChild
+MenuToys
+CharacterEvents
+Struggle
+SetNetworkOwner
+CreateLine
+CreateGrabLine
+DestroyLine
+DestroyGrabLine
+DestroyToy
+playerCharacter
+Character
+CharacterAdded
+Wait
+Connect
+anchoredParts
+anchoredConnections
+compiledGroups
+compileConnections
+renderSteppedConnections
+lightbitradius
+usingradius
+auraRadius
+toysFolder
+workspace
+FindFirstChild
+SpawnedInToys
+ownedToys
+bombList
+_G
+InvisibleLineToggle
+ToyToLoad
+BombMissile
+MaxMissiles
+BlobmanDelay
+blobalter
+Tab
+MakeTab
+Sigma Player
+Icon
+rbxassetid://18719810809
+PremiumOnly
+plr
+plrGui
+PlayerGui
+createGui
+MouseIconEnabled
+mouseInput
+Enum
+UserInputType
+MouseButton1
+MouseButton2
+MouseButton3
+MouseMovement
+MouseWheel
+keyboard
+Keyboard
+isOnPC
+setupToggle
+screenGui
+txtButton
+AddButton
+Our WebSite,Socials
+Callback
+player
+loadAnimation
+playFireFlailAnimation
+stopFireFlailAnimation
+AddToggle
+Fire Animation
+Default
+Save
+humanoidRootPart
+HumanoidRootPart
+Humanoid
+camera
+Workspace
+CurrentCamera
+cameraOffset
+minDepth
+undergroundYPosition
+Position
+Y
+originalJumpPower
+JumpPower
+Heartbeat
+RenderStepped
+Invisibility (makes ur player invis ur able to grab players)
+InfiniteJumpEnabled
+JumpRequest
+🚀 Infinite Jump ✨
+Flag
+Inf Jump
+isWalkSpeedEnabled
+Enable WalkSpeed
+WalkspeedToggle
+AddSlider
+WalkSpeed
+Min
+Max
+Walkspeed
+Color
+Color3
+fromRGB
+Increment
+ValueName
+bananas
+char
+isJumpPowerEnabled
+defaultJumpPower
+jumpPowerValue
+updateJumpPower
+Enable JumpPower
+JumpPowerToggle
+JumpPowerValue
+jump power
+onCharacterAdded
+Rejoin 
+Section
+AddSection
+Teleport
+teleportActive
+setupCharacter
+Teleport Press Z
+Rainbow Line
+replicatedStorage
+updateLineColorsEvent
+DataEvents
+UpdateLineColorsEvent
+randomColor
+generateRandomColorSequence
+updateBeamColors
+isActive
+Toggle rainbow Beam Color
+Rainbow
+Typing
+Fake Typing
+ExplosionTab
+Explosions   
+rbxassetid://11522216069
+DestroyT
+onPlayerAdded
+onPlayerRemoving
+PlayerAdded
+PlayerRemoving
+pairs
+MenuGui
+Menu
+TabContents
+Toys
+Contents
+GetChildren
+UIGridLayout
+getNearestPlayer
+spawnItemCf
+AddDropdown
+Toy to load(other toys might no work working on it )
+Options
+FireWork Toy
+PresentBig
+BombBalloon
+BombDarkMatter
+Auto Reload Cache
+explodeAtSpawn
+explodePlayer
+shouldLoop
+explosionSpeed
+Explosion Speed
+Seconds
+AddParagraph
+How Many Missles?/auto explode
+(put to zero if u wanna turn off auto explode)
+How Many Missiles?
+Missiles
+MaxMissilesSlider
+AddBind
+Explode Cached Missile
+T
+Hold
+ExplodeCachedBombKeybind
+Throw Bomb
+P
+Explode Firework
+N
+Missile Cache Reload
+Q
+PermanentWhitelist
+JESSETC92BACKUP23
+JESSETC92111
+hahshsin
+Blizz_T
+SaviorLiberty
+Lokick07
+ggerrtasalt
+76rgoyf
+Sofiatheprincesa123
+WhitelistedPlayers
+setmetatable
+__index
+WhitelistFriends
+GrabMode
+Right Arm Grab
+BlobmanTab
+Sigma BlobMan
+rbxassetid://16250013962
+WhitelistTab
+Whitelist/Loop kick
+selectedPlayer
+whitelistDropdown
+Select a Player to Whitelist
+whitelistedDropdown
+Players in Whitelist
+Add to Whitelist
+Remove from Whitelist
+Whitelist Friends
+Grab Mode
+Left Arm Grab
+Both Arms Grab
+Grab Speed
+Grab Mode(BRING ALL)
+Grab Speed (BRING ALL)
+isPlayerWhitelisted
+getBlobman
+Bring all
+Destroy Server
+loopEnabled
+blobmanSpawned
+blobmanHeight
+spawnBlobman
+findBlobmanSeat
+sitOnBlobman
+loopBlobman
+Blobman Loop Kick
+Blobman Height
+Whitelist Management
+rbxassetid://7072717697
+playerDropdown
+Select Player for Loop Kick
+Remove Whitelist Player
+Sigma Grabs
+rbxassetid://18985225104
+localWhitelist
+isWhitelisted
+getDescendantParts
+PoisonHurtPart
+PaintPlayerPart
+grabHandler
+Radioactive Grab
+RadioactiveGrab
+noclipGrab
+No-clip Grab
+NoclipGrab
+grabLine
+HideGrabLine
+RestoreGrabLine
+Invisible Line
+InvisibleLineFlag
+enabled
+grabType
+Powerful
+whitelist
+Select Grab Type
+Spin
+GrabType
+Enable Grab
+GrabToggle
+ChildAdded
+d
+flingEnabled
+flingStrength
+Stronger Fling
+Fling Strength (Mobile & PC)
+FlingStrength
+IsInWhitelist
+toggleStateUp
+toggleStateDown
+HandleGrabParts
+Teleport Up (Players Only)
+tp grab up
+Teleport Down (Players Only)
+tp grab down
+GrabParts
+dynamicWhitelist
+Kill Grab
+M to Levitate kinda like anchor C to un levitate Z to hide line when use levitate
+ levitate grabs
+ObjectGrabTab
+Sigma Move Anchored Toys
+rbxassetid://3429559393
+isDescendantOf
+GetDescendant
+FindFirstAncestorOfType
+IsA
+Model
+cleanupConnections
+createHighlightAndImage
+onPartOwnerAdded
+createBodyMovers
+anchorGrab
+cleanupAnchoredParts
+cleanupCompiledGroups
+Move Toys Anchored
+(AnchorThe Toys First Highlights The Part U Need To Move Green)
+Compile Toys (Move Anchored Toys)
+updateBodyMovers
+compileGroup
+unanchorPrimaryPart
+recoverParts
+Anchor Grab
+(This Anchors The Toys That You Are Currently Grabbing)
+Auto Recover Grabbed Toy
+(Grabs The Toys Back That Are Being Grabbed)
+AutoRecoverDroppedParts
+This Unanchor The Green Highlighted Toys
+Aura Toys 
+Important Note
+Set the radius to 45 or it might break. Click on 'Follow Toys' so the toys can follow you from that shape. i will move all the sliders into the gui soon.. i will add prebbuilt builds like nazi ,dick,heart soon
+Draw Grid Shape Maker/Made By Jose Owner OF verbalhub
+loopInterval
+highlightColor
+highlightOutlineColor
+highlightTransparency
+lastUpdateTime
+tick
+highlights
+manageRecoveryCoroutine
+🛡️ Safe Mode 🚫 (Highlights The Toys Purple and Red When Grabbed)
+Safe Mode
+dropdown
+Select a Player
+ (
+DisplayName
+)
+updateDropdown
+how to use aura toy for others players
+Grab the selected players toys and grab them and then click on actvate and boom
+speed
+radius
+height
+xRotation
+yRotation
+zRotation
+layers
+isMoving
+selectedEffect
+Ferris Wheel 🎡
+clamp
+applyEffect
+ferrisWheelEffect
+orbitEffect
+bounceEffect
+pulsingEffect
+🎡 Select Effect 🪐
+Orbit 🪐
+Tornado 🌪️
+Bounce 🎢
+Wave 🌊
+Pulsing 💡
+Activate Effects
+Speed
+Radius
+Height
+X Rotation
+Y Rotation
+Z Rotation
+Layers
+GrabWhitelist
+Auras Grabs
+rbxassetid://4483345998
+WhitelistGrabs
+Whitelist Grabs
+s3i5t
+spinSpeed
+Spin Speed
+Spin Grab Aura
+Annoying Grab Aura
+Chaotic Grab Aura
+Funny Grab Aura
+Unpredictable Grab Aura
+PowerfulAuraActive
+KickAuraActive
+ExecutePowerfulAura
+MakePlayerJump
+ApplyPowerfulAuraEffect
+ApplyKickAuraEffect
+TogglePowerfulAura
+ToggleKickAura
+Powerful Aura
+Kick Aura
+MaxDistance
+GrabCooldown
+KillDelay
+AuraEnabled
+Player
+rootPart
+getDistance
+killPlayer
+stopAura
+Kill Aura (100% chance)
+teleportDepth
+teleportSpeed
+teleporting
+humanRootPart
+originalPosition
+JESSETC92BACKUP2
+toggleTeleportLoop
+Teleport All (Use One of the auras)
+Teleport Speed
+players
+toggle
+MakePlayerStand
+SetBodyPartProperties
+ApplySettingsLoop
+Use This To make the Player Sit walk only works for aura
+Kick Sit
+loopActive
+GrabRange
+grabbedPlayers
+downSpeed
+GrabEvent
+descendToHell
+DisconnectTouchEvents
+Hell Aura
+hell aura
+Downward Speed
+Auras
+FreezeAuraActive
+TweakOutAuraActive
+FlingAuraActive
+SpinAuraActive
+MaxVelocity
+TweakOutAuraConfig
+DownwardVelocity
+SpinAuraConfig
+Range
+GrabSpeed
+GrabOffset
+Vector3
+new
+shouldAffectPlayer
+updateAuras
+Crazy Auras
+range
+orbitSpeed
+orbitRadius
+separationAngle
+math
+pi
+isLooping
+updateInterval
+toggleLoop
+Orbit Grab Aura
+OrbitAura
+Orbit Speed
+OrbitSpeed
+Freeze Aura
+FreezeAura
+Make Players Tweak Out Aura
+TweakOutAura
+Tweak Out Aura Downward Velocity
+TweakOutAuraDownwardVelocity
+Downward Velocity
+Fling Aura
+FlingAura
+Max Velocity
+MaxVelocityFlingAura
+Velocity
+Spin Aura Toggle
+SpinAura
+Spin Aura Range
+SpinAuraRange
+Spin Aura Grab Speed
+SpinAuraGrabSpeed
+Spin Aura Grab Offset Z
+Z
+SpinAuraGrabOffsetZ
+Grab Offset Z
+ESPTab
+ESP Options
+rbxassetid://103345532
+CircleESPEnabled
+HighlightESPEnabled
+ESPMaxScale
+ESPMinScale
+ESPDistanceFactor
+createCircleESP
+createHighlightESP
+clearCircleESP
+clearHighlightESP
+Circle ESP (Profile + Names)
+Highlight ESP Players
+scaleESPWithDistance
+Stepped
+updateESP
+GetPlayers
+Sigma Anti Grabs
+rbxassetid://12750229274
+whitelistedPlayers
+use this if someone grabs u anti grab v2
+AntiGrabV2
+spawn
+TweenService
+antiVoidEnabled
+safePosition
+voidYLevel
+Instance
+ScreenGui
+CoreGui
+infoBox
+Frame
+UDim2
+Size
+BackgroundTransparency
+BackgroundColor3
+Visible
+imageLabel
+ImageLabel
+Image
+rbxassetid://75142123538746
+ScaleType
+Stretch
+messageLabel
+TextLabel
+Font
+SourceSansBold
+TextSize
+TextWrapped
+TextColor3
+Text
+sound
+Sound
+SoundId
+rbxassetid://8522910825
+Volume
+Looped
+rainbowColors
+typeMessage
+smoothShow
+smoothHide
+showTypedMessage
+checkVoid
+Anti-Void
+AntiVoid
+Anti Grabs
+toggleActiveAntiGrabAndBlobman
+autoStruggleCoroutine
+initialPosition
+teleportDistanceThreshold
+velocityThreshold
+grabDistanceThreshold
+connections
+antiKillEnabled
+BeingHeld
+IsHeld
+table
+insert
+Changed
+antiKill
+onHealthChanged
+Anti-Grab, Anti-Blobman, and Anti-Kill
+AutoStruggle
+RagdollRemote
+antiBlobmanActive
+toggleActiveAntiKick
+runAntiKickLoop
+toggleAntiKick
+resetVelocityAndPosition
+antiBlobmanLoop
+toggleAntiBlobman
+toggleProtections
+Anti-Blobman (Prevents blobman grabs and resets when necessary)
+resetPositionIfNeeded
+Anti Explosion
+AntiExplosion
+selectedAutoAttacker
+Auto Attacker - Fling Away
+flingVelocity
+stopAutoDefend
+Auto Defend
+Auto Attacker Type
+AutoAttackType
+Auto Attacker - Stun
+Auto Attacker - Heaven
+Auto Attacker - Spin
+Make Player Tweak Out - Auto Attack
+Kill Player - Auto Defend
+Random Auto Defend
+Fling Velocity
+FlingVelocity
+randomAutoDefend
+Auto Attacker
+AutoAttackerToggle
+coroutine
+wrap
+Anti Kick
+Anti Lag
+Anti Kick and Kick Aura
+AuraConfig
+None
+tornadoHeight
+waveHeight
+waveSpeed
+blackholePower
+chaosFactor
+pulseScale
+pulseSpeed
+flingPower
+activeToys
+blackholeEffect
+randomEffect
+annoyEffect
+chaosEffect
+flingEffect
+jitterEffect
+scatterEffect
+Aura All/Toys
+Select Aura Effect
+Orbit
+Tornado
+Wave
+Blackhole
+Random
+Annoy
+Chaos
+Fling
+Jitter
+Zoom
+Scatter
+Enable/Disable Aura
+Orbit Radius
+Orbit Height
+Tornado Layers
+Tornado Height
+Wave Height
+Wave Speed
+Chaos Factor
+Blackhole Power
+Auto Piano 🎹🎶
+rbxassetid://15448668775
+cachedToys
+partsSet1
+Key1F
+Key2A
+Key1G
+Key3C
+Key1C
+Key1D
+Key2D
+Key2Fsharp
+Key2G
+Key2Gsharp
+Key3A
+Key3Asharp
+partsSet3
+Key2E
+loopSpeed
+executeLoop
+🎹 Piano Spam (Limit usage to avoid getting kicked!)
+⏩ Loop Speed
+🎶 Select Parts Set
+Set 1
+Set 2
+Set 3
+Songs
+🎉 Happy Birthday
+Key2C
+Key2F
+Key2Asharp
+🔤 ABC Song
+🌟 Twinkle Twinkle Little Star
+🐑 Mary Had a Little Lamb
+🎶 Ode to Joy
+👨‍🌾 Old McDonald
+🚤 Row Row Row Your Boat
+🔔 Jingle Bells v2
+Key1E
+🎃 Halloween Theme
+KeyCsharp
+Key2B
+Key1Fsharp
+KeyDsharp
+Key2Csharp
+Key1Dsharp
+Key1Gsharp
+👻 Spooky Halloween
+💻 Hacker Song
+🎶 Random Song
+🎵 Choose Your Song 🎶
+⏩ Speed Control 🎚️
+Play Song Loop
+🇺🇸 Anthem
+Key1A
+🎄 Jingle Bells
+👻 Spooky Tunes
+🌟 Twinkle Star
+🎶 Pick a Song 🎵
+⏩ Adjust Speed 🎚️
+seconds
+▶️ Play Song 🎶
+Mess Up Plots 
+rbxassetid://139973820
+Misc/Silent Aim/Lag 
+rbxassetid://102901940221911
+silent aim
+PS
+R
+Cam
+SIL
+dist
+ToggleSilentAim
+Reach Silent Aim
+silent aim reach
+Silent Aim
+ragdoll all
+fireAll
+Radoll all/Fire all
+Fire All (Using Campfires)
+Fire all
+bananaGrabbed
+ragdollActive
+grabBanana
+spawnBanana
+holdBanana
+useBanana
+dropBananaNearLocalPlayer
+ragdollAll
+toggleRagdollAll
+Ragdoll All
+Ragdoll all
+Lag All/line
+Emergycy grab
+isFollowActive
+followDistance
+followSpeed
+angles
+OrbitPlayers
+Orbit Not Fe but lets you put players on fire or painted
+player orbit
+not fe orbit
+Orbit Distance
+distcnace
+Distance
+conversionTableUpper
+A
+Ạ
+B
+Ḅ
+C
+С
+D
+Ḍ
+E
+Ẹ
+F
+Ḟ
+G
+Ģ
+H
+Ḥ
+I
+Ị
+J
+Ĵ
+K
+Ḳ
+L
+Ḷ
+M
+Ṃ
+Ṇ
+O
+Ọ
+Р
+Ṛ
+S
+Ṣ
+Ṭ
+U
+Ụ
+V
+Ṿ
+W
+Ẉ
+X
+Х
+Ỵ
+Ẓ
+conversionTableLower
+a
+ạ
+b
+ḅ
+c
+с
+ḍ
+e
+ẹ
+f
+ḟ
+g
+ɡ
+h
+ḥ
+i
+ị
+j
+ј
+k
+ḳ
+l
+ḷ
+m
+ṃ
+n
+ṇ
+o
+ọ
+p
+р
+q
+r
+ṛ
+s
+ṣ
+t
+ṭ
+u
+ụ
+v
+ṿ
+w
+ẉ
+x
+х
+y
+ỵ
+z
+ẓ
+badWordsSentences
+Go fuck yourself
+You are a piece of shit
+Shut the fuck up
+I don't give a damn
+Get the hell out of here
+You son of a bitch
+What the fuck is wrong with you
+Kiss my ass
+Screw you
+You're a fucking idiot
+Don't talk to me ever again
+Eat shit
+You're useless
+Fucking moron
+I don't give a fuck
+I hope you step on a Lego
+You're the worst
+You're dumb as hell
+You're a coward
+Fuck off
+Go to hell
+You look like trash
+You're full of shit
+Stop talking, you're embarrassing yourself
+Why don't you just disappear
+What the actual fuck
+You must love the sound of your own voice
+You're delusional
+Stop acting like a little bitch
+You're a waste of space
+Don't even look at me
+You are pathetic
+Get lost
+You're as useful as a screen door on a submarine
+Your IQ must be lower than room temperature
+Is your brain on vacation?
+If ignorance is bliss, you must be the happiest person alive
+You're so full of yourself
+You talk a lot for someone with no brain
+You must have been born on a highway because that’s where most accidents happen
+Go play in traffic
+You look like something I drew with my left hand
+If laughter is the best medicine, your face must cure the world
+Do you get your fashion tips from a dumpster?
+You have the charisma of a damp rag
+Did your parents drop you on your head as a child?
+You're about as sharp as a bowling ball
+I'd agree with you, but then we'd both be wrong
+You bring everyone so much joy when you leave the room
+Your secrets are safe with me because I never listen
+You’re like a cloud. When you disappear, it's a beautiful day
+If you were twice as smart, you'd still be stupid
+Your face makes onions cry
+I would challenge you to a battle of wits, but it wouldn't be fair
+You have delusions of adequacy
+You’re not the dumbest person on the planet, but you better hope they don’t die
+I can’t believe you’re still single with that personality
+You have a face for radio
+I'm jealous of all the people that haven’t met you
+You’re so bad at what you do, you must be a government experiment
+Why don’t you slip into something more comfortable, like a coma?
+Your family tree must be a cactus because everyone on it is a prick
+You’re about as useful as a white crayon
+Your face is a work of art—abstract art
+The only thing you’re exercising is poor judgment
+You should put a condom on your head, because if you’re going to act like a dick, you might as well dress like one
+I’ve seen better arguments at a parent-teacher conference
+Your opinion is as valuable as a payphone in 2024
+Your brain is like the Bermuda Triangle—information goes in, but it never comes out
+You couldn’t find your way out of a paper bag with a map and a flashlight
+I hope your Wi-Fi cuts out during a critical moment
+You’re the reason God created the middle finger
+You have a black belt in stupidity
+I'd slap you, but I don’t want to make your face look better
+Somewhere out there is a tree tirelessly producing oxygen for you. I think you owe it an apology
+If I wanted to kill myself, I'd climb your ego and jump to your IQ
+You're like a software update. Whenever I see you, I think, 'Not now.'
+You talk a lot of shit for someone within punching distance
+Shut up before I smack the taste out of your mouth
+You're a waste of oxygen
+You're as sharp as a marble
+You couldn't pour water out of a boot if the instructions were on the heel
+Do you ever wonder what life would be like if you'd gotten enough oxygen at birth?
+You have the personality of a brick wall
+I’m not insulting you. I’m describing you
+If I threw a stick, you’d leave, right?
+You’re about as useful as a windshield wiper on a submarine
+Your brain’s as smooth as a bowling ball
+I'd explain it to you, but I left my crayons at home
+You're like a cloud: when you disappear, it’s a beautiful day
+Some people are like clouds. Once they go away, it's a nicer day
+You're proof that evolution can go in reverse
+You’re like a software bug—constantly annoying and always around
+If I had a dollar for every time you said something smart, I’d be broke
+You’re like a camera flash—blinding, unnecessary, and gone in an instant
+Somewhere out there, there’s a village missing its idiot
+I would agree with you, but then we’d both be wrong
+I could eat a bowl of alphabet soup and shit out a better conversation
+I could make a better argument with a wet paper towel
+You’re as useful as a white crayon on white paper
+Do your parents even like you?
+I bet you swim with floaties in the shallow end
+You must have been born on a highway, because that’s where most accidents happen
+If you had a brain, you'd be dangerous
+You’re like a light bulb with no filament: technically there, but completely useless
+You're a black hole of stupidity
+Your mouth is moving, but all I hear is blah blah blah
+You look like a before picture
+You’re like the ugly step-sibling no one wants to talk about
+If your brain was dynamite, there wouldn’t be enough to blow your hat off
+You're not as dumb as you look, but you’re close
+You're the human version of the period at the end of a text message
+rizzPickupLines
+Are you French? Because Eiffel for you
+Do you have a map? I keep getting lost in your eyes
+Is your name Google? Because you have everything I’ve been searching for
+Do you have a Band-Aid? Because I just scraped my knee falling for you
+Are you a parking ticket? Cause you’ve got FINE written all over you
+If you were a vegetable, you’d be a cutecumber
+Are you a magician? Because whenever I look at you, everyone else disappears
+Are you from Tennessee? Because you're the only 10 I see
+Did it hurt when you fell from heaven?
+If beauty were a crime, you'd be serving a life sentence
+Are you a campfire? Because you're hot and I want s'more
+Do you believe in love at first sight, or should I walk by again?
+Excuse me, but I think you dropped something: my jaw
+Are you made of copper and tellurium? Because you're Cu-Te
+I must be a snowflake because I've fallen for you
+You must be tired because you've been running through my mind all day
+Do you have a pencil? Because I want to erase your past and write our future
+Are you Wi-Fi? Because I'm feeling a connection
+Is your dad a boxer? Because you're a knockout
+Your hand looks heavy—can I hold it for you?
+Can you lend me a kiss? I promise I'll give it back
+Are you Australian? Because when I look at you, I feel like I’m down under
+I must be a photographer because I can picture us together
+Is your heart a lock? Because I think I’ve found the key
+If you were a fruit, you'd be a fineapple
+Are you the ocean? Because I'm lost at sea
+You must be a parking ticket because you’ve got fine written all over you
+If looks could kill, you'd be a weapon of mass destruction
+You’re like a dictionary—you add meaning to my life
+Do you have any raisins? No? How about a date?
+Are you a time traveler? Because I can see you in my future
+Do you have a sunburn, or are you always this hot?
+If I could rearrange the alphabet, I'd put U and I together
+Can I follow you home? Because my parents always told me to follow my dreams
+You're like a broken pencil, pointless without me
+If kisses were snowflakes, I'd send you a blizzard
+Do you believe in fate? Because I think we were meant to meet
+You must be a magician because every time I look at you, everyone else disappears
+If you were a triangle, you'd be acute one
+Are you a loan from a bank? Because you have my interest
+You must be a star, because your beauty lights up the night
+Are you a volcano? Because I lava you
+Is your name Chapstick? Because you're da balm
+You must be a ninja, because you snuck into my heart
+Are you an angel? Because heaven is missing one
+I’m not a photographer, but I can definitely picture us together
+Do you have a name, or can I call you mine?
+Are you a shooting star? Because I’ve wished for someone like you
+You're the reason I smile every day
+Even if there wasn’t gravity on Earth, I’d still fall for you
+Is it hot in here, or is it just you?
+Do you have a license? Because you're driving me crazy
+If I could rearrange the periodic table, I’d put U and I together
+You’re so sweet, you’re giving me a toothache
+Are you the moon? Because even when it's dark, you still shine
+I must be a cat because I’m feline a connection between us
+Are you an alien? Because you just abducted my heart
+If you were a flower, you'd be a daisy
+I don't need glasses to see how amazing you are
+You must be the square root of -1, because you can't be real
+Are you a bank loan? Because you've got my interest
+You must be an interior decorator, because you’ve just furnished my heart
+You’ve got everything I’ve been searching for, and believe me—I’ve been looking a long time
+Are you a parking ticket? Because you’ve fine written all over you
+I must be lost because heaven is a long way from here
+Is it okay if I follow you home? My GPS is broken, and I need directions to your heart
+You light up my life like nobody else
+Are you a light bulb? Because you brighten my day
+If you were a superhero, you'd be Wonder Woman
+I must be a snowflake because I’ve fallen for you
+You’re the peanut butter to my jelly
+If I had a nickel for every time I saw someone as beautiful as you, I’d have five cents
+Are we at the airport? Because my heart is taking off
+Are you a dictionary? Because you give my life meaning
+You’re like a candy bar—half sweet and half nuts
+Is your name Wi-Fi? Because I’m feeling a connection
+You’re like a cloud—soft, fluffy, and making my day brighter
+Are you a battery? Because you give me a charge
+If you were words on a page, you'd be fine print
+I couldn’t help but notice that we would look cute together
+I must be a light switch, because every time I see you, you turn me on
+Do you have a pencil? Because I want to erase the past and write our future
+Do you have a map? Because I keep getting lost in your eyes
+Are you a beaver? Because daaaaam
+Is your dad a baker? Because you're a cutie pie
+I’m not a genie, but I can make your dreams come true
+Are you a campfire? Because you bring warmth to my heart
+Is it just me, or did it just get 10 degrees hotter in here?
+You must be the square root of 2, because I feel irrational around you
+You’re like a summer day—hot and bright
+Are you an earthquake? Because you’ve got me shook
+I’m not a doctor, but I’m pretty sure you just cured my loneliness
+Is your name caffeine? Because you’ve got me buzzing
+I must be a snowman, because I’ve melted for you
+Are you an angel? Because you’re heaven-sent
+You must be a magician, because whenever I look at you, everyone else disappears
+If beauty were a number, you'd be infinity
+I was blinded by your beauty... I’m going to need your name and number for insurance purposes
+You must be exhausted because you’ve been running through my mind all day
+Do you have a compass? Because every time I’m with you, I get lost in your love
+You’re like my favorite song on repeat, I can’t get enough of you
+badWords
+fuck
+shit
+ass
+bitch
+damn
+bastard
+crap
+douche
+dumbass
+motherfucker
+cocksucker
+dick
+pussy
+prick
+slut
+whore
+twat
+fucker
+jackass
+bastards
+arse
+wanker
+tosser
+bollocks
+knobhead
+wank
+git
+bugger
+sod
+shag
+bloody
+pillock
+shithead
+arsehole
+numbnuts
+cunt
+twatwaffle
+shitfaced
+fuckboy
+dumbfuck
+fucktard
+shitbag
+cumbucket
+fuckwad
+dickweed
+asshat
+cocksplat
+asswipe
+bitchtits
+fuckstick
+douchecanoe
+assclown
+shitlord
+pisshead
+cockmaster
+twatbag
+turd
+shitgibbon
+fuckwit
+dickhead
+fartknocker
+jizzmuffin
+jerkoff
+twatsocket
+shitweasel
+pissflap
+bollockbrain
+knobjockey
+cumstain
+spermwhale
+fanny
+shitstain
+knobgoblin
+cockwomble
+fuckface
+arsewipe
+dicknose
+shitbrain
+fuckmuppet
+assblaster
+pisswizard
+fudgepacker
+scumbag
+gobshite
+arsebandit
+ballbag
+shitstick
+cocknugget
+dickwad
+fucknugget
+gash
+knobend
+minger
+douchelord
+twatgoblin
+fuckpump
+cockgoblin
+shitehawk
+spunktrumpet
+asslicker
+bollockjuggler
+shitbagger
+cockmongler
+fannyflaps
+shitpants
+fuckchop
+wankstain
+arsebiscuit
+dickflick
+douchewaffle
+shitwagon
+cockwaffle
+fuckwaffle
+twatdangler
+dicktickler
+twatlips
+arsewaffle
+shitknocker
+twatknuckle
+arsehead
+fuckoff
+wankpuffin
+dickwaddle
+knobcheese
+twatface
+arsemunch
+fuckrag
+twatrocket
+arseburger
+twatstick
+douchepants
+twatplank
+fuckstain
+arsebucket
+fuckbucket
+arsebuckle
+twathole
+fuckhole
+twatpuffin
+asspacker
+twatbiscuit
+fuckbiscuit
+arsepickle
+douchepickle
+shitpickle
+fuckpickle
+fuckburger
+cockburger
+shitburger
+fucknoodle
+cocknoodle
+fuckbag
+twatbucket
+arsebag
+cockbag
+fucknozzle
+cocknozzle
+shitnozzle
+fucktrumpet
+cocktrumpet
+shittrumpet
+fuckfart
+cockfart
+shitfart
+twatfart
+assfart
+fuckbastard
+cockbastard
+shitbastard
+fuckprick
+cockprick
+shitprick
+cockwad
+shitwad
+fuckknuckle
+cockknuckle
+shitknuckle
+fuckhead
+cockhead
+twathead
+fuckbrain
+cockbrain
+cockstick
+Fuckinfernuspussyassbitch
+selectedBadSentence
+selectedRizzPickupLine
+customWord
+convertText
+ChatTab
+Chat Bypass 
+rbxassetid://11707615313
+chat bypass
+made by verbal hub/Jose
+AddTextbox
+Custom Word
+TextDisappear
+Select a Bad Word
+Select a Bad Sentence
+Select a Rizz Pickup Line
+Anti Chat Logger
+Send Bad Word
+Send Bad Sentence
+Send Rizz Pickup Line
+nsfwWordsSentences
+Fuck you and your mother
+Your pussy stinks like a dead fish
+Suck my dick, bitch
+I want to fuck your ass
+You're a slut, show me your tits
+I'll ram my cock down your throat
+Eat my cum, whore
+I want to watch you masturbate
+Show me your hairy asshole
+I'll make you squirt
+You're a dirty slut
+I'll fuck you till you bleed
+Your tits are saggy and disgusting
+I want to see you pee
+I'll make you my sex slave
+Your pussy is a filthy hole
+I'll spank your ass and fuck you hard
+You're a worthless cunt
+I'll make you my personal blowjob machine
+Your ass is a gaping hole
+Let's get naked and explore each other's bodies.
+Your pussy is a masterpiece, I want to paint it with my tongue.
+I'll make you cum so hard, you'll see stars and rainbows.
+My dick is ready for a wild ride, are you?
+You're so sexy, I want to cum all over your face.
+Let's have a cum-filled threesome, it'll be epic!
+I'll make your pussy squirt like a fountain of pleasure.
+Your ass is a dream, I want to spank and fuck it.
+I'll make you my personal cum-dumpster, baby.
+Let's get naughty and have some adult fun.
+Fuck, your body is a sin, and I want to commit it.
+Damn, your pussy is a wet dream come true.
+Fuck me, your ass is a masterpiece, I want to worship it.
+I'll make you cum so hard, you'll be screaming like a bitch.
+Your tits are fucking perfect, I want to suck on them.
+Let's get naked and fuck like animals.
+I want to cum all over your face, you slut.
+Your pussy is a tight little hole, I'll stretch it.
+Fuck yeah, let's have a threesome, it'll be epic!
+I'll make you my personal cum-dumpster, you horny bastard.
+Your ass is so round and juicy, I want to bite it.
+I'll make you moan and squirm with pleasure, you little whore.
+Let's get wild and dirty, fuck the rules.
+Your body is a temple, and I want to defile it.
+I'll make you my sex slave, you'll love every second.
+Your pussy is a wet paradise, I want to dive in.
+Fuck yeah, let's have some adult fun, no holds barred.
+I want to cum inside you, you horny bitch.
+Your ass is a work of art, I'll appreciate it fully.
+I'll make you scream my name, you naughty little thing.
+Let's get naked and explore each other's bodies, thoroughly.
+Your pussy is a sweet treat, I want to devour it.
+Fuck me, your ass is a dream, I'll make it my reality.
+I'll make you cum so hard, you'll see stars and rainbows, you slut.
+Your tits are fucking amazing, I want to worship them.
+Let's have a wild, kinky night, no regrets.
+I want to cum all over your sexy body, you filthy whore.
+Your pussy is a tight little gem, I'll unlock it.
+Fuck yeah, let's get naughty and dirty, it's our secret.
+I'll make you my personal sex goddess, you'll love it.
+Your ass is so round and perfect, I want to spank it.
+I'll make you moan and beg for more, you horny bastard.
+Let's get wild and free, fuck the consequences.
+Your body is a pleasure palace, and I'm the king.
+I'll make you my sex toy, you'll love every sensation.
+Your pussy is a wet wonderland, I want to explore it.
+Fuck yeah, let's have a cum-filled adventure, it's epic!
+I'll make you my personal cum-bucket, you greedy bitch.
+Your ass is a sexy curve, I want to trace it.
+I'll make you scream and squirm, you naughty little slut.
+nsfwDropdown2
+You're a cock-sucking whore
+I'll make you my cum dumpster
+Your pussy is a wet dream
+I'll fuck you till you pass out
+nsfwPickupLines
+Do you want to see my big cock?
+I'll make you scream with pleasure
+Let's have a threesome, baby
+I'll make you my personal sex toy
+I'll fuck you so hard you'll forget your name
+Your body is a playground for my dick
+I'll make you cum so hard you'll see stars
+You're a sexy little slut
+I'll show you what a real man can do
+Your pussy is a paradise
+selectedNsfwSentence
+selectedNsfwPickupLine
+customNsfwWord
+convertNsfwText
+NsfwTab
+NSFW Chat 
+rbxassetid://180083927
+nsfw chat bypass
+Select an NSFW Sentence
+Select an NSFW Pickup Line
+Send NSFW Sentence
+Send NSFW Pickup Line
+Teleport To Place
+rbxassetid://1529653171
+positions
+Blue House
+CFrame
+Angles
+Green House 2
+House
+Scary House
+Hidden Part
+Small Hidden Base
+Cave
+Secret Base
+Japanese House
+Green House First Floor
+Green House Second Floor
+Poison Factory
+Barn Yard
+Barn House
+House Floor 2
+Spawn
+Teleport Locations
+button
+Teleport To Place!
+followPlayerEnabled
+lockOnEnabled
+viewEnabled
+highlightEnabled
+playerInfoEnabled
+Player Selection
+Select a player
+followPlayer
+Follow Player
+Lock On to Player
+View Player POV
+highlight
+Highlight
+PlayerHighlight
+OutlineColor
+OutlineTransparency
+Highlight Player
+createPlayerInfoGui
+Show Player Info
+IsLoaded
+Loaded
+enableGraphics
+disableGraphics
+toggleValue
+Toggle Enhanced Graphics
+Cool graphics
+Made By Verbal Hub/Moony
+Aim at the toy and press c to telekinesis the toy 
+Sigma Other Guis/Verbal Other Guis 
+rbxassetid://11570895459
+Crack ftap script
+Vhs Crack
+Made By Verbal Hub Bee swarm
+Chat Admin Made By Verbal Hub
+Our New Music Player
+ | UserCreation chat bypass
+Key is fuckswag all lowercase
+CatBypasser Op 
+Key is lyfestyle catbypasser
+Fe R6 animations Op 
+Dex/Mobile Only
+Infinite Yield
+Nameless admin
+VHS
+Ftap op script
+Mobile Keyboard
+Very Sigma Our Discord Server
+rbxassetid://15016878198
+Our discord
+https://discord.gg/yfQNMyJjnq
+Copy Discord
+Credits
+rbxassetid://131388420111560
+Jose(Owner/JESSETC92BACKUP23)
+I Did Everything Except For The Below Script. I Made Auras,Grabs,Anti Grabs,Blobman,Event,Lag all ,Auto Piano,And More..
+Mac(Yoyeet119)
+ Thank You For Silent Aim , Kick grab v2
+Infernus(ggerrtasalt)
+Thank You For Testing My Scripts
+Moony(hahshsin)
+Thank You For Fixing My Stronger Fling Grab For Mobile Players
+Osama(76rgoyf)
+Thank You For Testing And ShowCasing My Script
+Jeke(UNDEBOLT)
+Thank You For Compile Parts, Anchor Grab ,Anti Explosion
+ServerSection
+Settings
+rbxassetid://11347197194
+AddLabel
+Players in the Server:
+Loading...
+Ping:
+MakeNotification
+Welcome to Verbal Sigma Hub
+Content
+Aww my wittle little skibidi is hacking :)
+rbxassetid://18793558154
+Time
+Thank You For Using Verbal Sigma Hub You are very skibidi
+rbxassetid://18793556595
+Init
+playerCharacter
+Instance
+new
+ScreenGui
+plrGui
+ResetOnSpawn
+TextButton
+BackgroundTransparency
+Size
+UDim2
+Modal
+Parent
+keyboard
+MouseIconEnabled
+ipairs
+mouseInput
+KeyboardEnabled
+MouseEnabled
+Tab
+AddToggle
+Name
+Unlock/Lock Mouse Mode (Use if on PC to move your mouse and GUI)
+Default
+Save
+Flag
+Mouse Mode
+Callback
+LastInputTypeChanged
+Connect
+isOnPC
+OrionLib
+MakeNotification
+Name
+Mouse Unlock Mode On
+Content
+Your mouse has been unlocked.go to player to turn this off if u want it locked
+Image
+rbxassetid://4483345998
+Time
+MouseIconEnabled
+Enabled
+Disconnect
+Mouse Unlock Mode Off
+Your mouse has been locked.
+setclipboard
+https://guns.lol/itsjose
+OrionLib
+MakeNotification
+Name
+You Copied The Discord Link
+Content
+WebSite link copied to clipboard!
+Image
+rbxassetid://4483345998
+Time
+player
+Character
+CharacterAdded
+Wait
+WaitForChild
+Humanoid
+Animator
+game
+GetService
+ReplicatedFirst
+CatchFire
+FireFlailAnimation
+LoadAnimation
+Play
+Stop
+loadAnimation
+playFireFlailAnimation
+stopFireFlailAnimation
+noclipConnection
+game
+GetService
+RunService
+Stepped
+Connect
+Disconnect
+pairs
+GetChildren
+IsA
+BasePart
+CanCollide
+humanoidRootPart
+CFrame
+new
+JumpPower
+pairs
+GetChildren
+IsA
+BasePart
+Name
+Head
+Transparency
+Position
+Vector3
+Velocity
+originalJumpPower
+X
+Z
+minDepth
+humanoidRootPart
+Velocity
+Vector3
+new
+X
+math
+max
+Y
+Z
+CFrame
+Position
+undergroundYPosition
+humanoidRootPart
+Position
+Vector3
+new
+cameraOffset
+camera
+CFrame
+LookVector
+WaitForChild
+Humanoid
+originalJumpPower
+JumpPower
+humanoidRootPart
+HumanoidRootPart
+InfiniteJumpEnabled
+game
+GetService
+Players
+LocalPlayer
+Character
+FindFirstChildOfClass
+Humanoid
+ChangeState
+Jumping
+InfiniteJumpEnabled
+isWalkSpeedEnabled
+MyChar
+FindFirstChild
+Humanoid
+WalkSpeed
+HackedWalkSpeed
+HackedWalkSpeed
+Plrs
+game
+GetService
+Players
+MyPlr
+LocalPlayer
+MyChar
+Character
+Hum
+Humanoid
+WalkSpeed
+isWalkSpeedEnabled
+Changed
+connect
+CharacterAdded
+isWalkSpeedEnabled
+Hum
+WalkSpeed
+HackedWalkSpeed
+Hum
+Changed
+connect
+Humanoid
+WalkSpeed
+isWalkSpeedEnabled
+HackedWalkSpeed
+MyChar
+wait
+FindFirstChild
+isWalkSpeedEnabled
+Hum
+WalkSpeed
+HackedWalkSpeed
+isJumpPowerEnabled
+JumpPower
+jumpPowerValue
+defaultJumpPower
+isJumpPowerEnabled
+updateJumpPower
+jumpPowerValue
+isJumpPowerEnabled
+JumpPower
+char
+WaitForChild
+Humanoid
+JumpPower
+isJumpPowerEnabled
+jumpPowerValue
+defaultJumpPower
+TeleportService
+game
+GetService
+Players
+coroutine
+resume
+LocalPlayer
+create
+pcall
+TeleportService
+Teleport
+game
+PlaceId
+hum
+WaitForChild
+HumanoidRootPart
+mouse
+game
+Players
+LocalPlayer
+GetMouse
+KeyDown
+Connect
+z
+teleportActive
+mouse
+Target
+hum
+CFrame
+new
+Hit
+p
+Vector3
+teleportActive
+Color3
+new
+math
+random
+colorSequenceKeypoints
+table
+insert
+ColorSequenceKeypoint
+new
+randomColor
+ColorSequence
+generateRandomColorSequence
+updateLineColorsEvent
+FireServer
+unpack
+isActive
+updateBeamColors
+wait
+begin
+game
+GetService
+ReplicatedStorage
+CharacterEvents
+ChatTyping
+FireServer
+unpack
+toysFolder
+FindFirstChildWhichIsA
+Model
+DestroyToy
+FireServer
+table
+insert
+playerList
+Name
+ipairs
+playerList
+Name
+table
+remove
+math
+huge
+pairs
+GetPlayers
+Character
+FindFirstChild
+HumanoidRootPart
+playerCharacter
+Position
+Magnitude
+task
+spawn
+Vector3
+new
+MenuToys
+SpawnToyRemoteFunction
+InvokeServer
+ownedToys
+_G
+ToyToLoad
+OrionLib
+MakeNotification
+Name
+Missing toy
+Content
+You do not own the 
+ toy.
+Image
+rbxassetid://4483345998
+Time
+coroutine
+create
+resume
+close
+Disconnect
+toysFolder
+ChildAdded
+Connect
+CanSpawnToy
+Value
+bombList
+_G
+MaxMissiles
+playerCharacter
+FindFirstChild
+Head
+spawnItemCf
+ToyToLoad
+CFrame
+HumanoidRootPart
+RunService
+Heartbeat
+Wait
+Name
+_G
+ToyToLoad
+WaitForChild
+ThisToysNumber
+Value
+toysFolder
+ToyNumber
+ChildRemoved
+Connect
+DescendantAdded
+Debris
+AddItem
+connectio
+FireServer
+Body
+CFrame
+PartOwner
+wait
+pairs
+GetChildren
+IsA
+BasePart
+Anchored
+Disconnect
+CanCollide
+SetPrimaryPartCFrame
+new
+table
+insert
+bombList
+AncestryChanged
+DestroyT
+Disconnect
+Name
+PartOwner
+Value
+DestroyT
+Disconnect
+Parent
+ipairs
+bombList
+table
+remove
+_G
+ToyToLoad
+shouldLoop
+bombList
+getNearestPlayer
+Character
+WaitForChild
+BombEvents
+BombExplode
+FireServer
+unpack
+table
+remove
+Radius
+TimeLength
+explosionSpeed
+Hitbox
+PartHitDetector
+ExplodesByFire
+MaxForcePerStudSquared
+Model
+ImpactSpeed
+ExplodesByPointy
+DestroysModel
+PositionPart
+HumanoidRootPart
+Torso
+PrimaryPart
+Position
+wait
+explosionSpeed
+_G
+MaxMissiles
+Radius
+TimeLength
+Hitbox
+PartHitDetector
+ExplodesByFire
+MaxForcePerStudSquared
+Model
+ImpactSpeed
+ExplodesByPointy
+DestroysModel
+PositionPart
+Character
+HumanoidRootPart
+PrimaryPart
+Position
+WaitForChild
+BombEvents
+BombExplode
+FireServer
+unpack
+bombList
+table
+remove
+ownedToys
+BombMissile
+toysFolder
+ChildAdded
+Connect
+spawnItemCf
+playerCharacter
+Head
+CFrame
+HumanoidRootPart
+Name
+BombMissile
+WaitForChild
+ThisToysNumber
+Value
+toysFolder
+ToyNumber
+Velocity
+workspace
+CurrentCamera
+CFrame
+lookVector
+Debris
+AddItem
+Disconnect
+FireServer
+PartHitDetector
+Instance
+new
+BodyVelocity
+MaxForce
+Vector3
+math
+huge
+toysFolder
+ChildAdded
+Connect
+spawnItemCf
+FireworkMissile
+playerCharacter
+Head
+CFrame
+HumanoidRootPart
+wait
+Disconnect
+ownedToys
+Name
+FireworkMissile
+WaitForChild
+ThisToysNumber
+Value
+toysFolder
+ToyNumber
+Disconnect
+FireServer
+PartHitDetector
+CFrame
+Radius
+TimeLength
+Hitbox
+ExplodesByFire
+MaxForcePerStudSquared
+Model
+ImpactSpeed
+ExplodesByPointy
+DestroysModel
+PositionPart
+Body
+Position
+BombEvents
+BombExplode
+unpack
+OrionLib
+MakeNotification
+Name
+Error
+Content
+Could not find player position
+Image
+rbxassetid://4483345998
+Time
+Radius
+TimeLength
+Hitbox
+PartHitDetector
+ExplodesByFire
+MaxForcePerStudSquared
+Model
+ImpactSpeed
+ExplodesByPointy
+DestroysModel
+PositionPart
+Position
+bombList
+No bombs
+There are no cached bombs to explode
+table
+remove
+WaitForChild
+BombEvents
+BombExplode
+FireServer
+unpack
+Character
+FindFirstChild
+HumanoidRootPart
+PrimaryPart
+selectedPlayer
+selectedPlayer
+whitelistedDropdown
+Refresh
+pairs
+_G
+WhitelistedPlayers
+table
+insert
+whitelistDropdown
+Refresh
+ipairs
+GetPlayers
+_G
+WhitelistedPlayers
+Name
+ (
+DisplayName
+)
+table
+insert
+selectedPlayer
+selectedPlayer
+match
+^(.-) %(
+_G
+WhitelistedPlayers
+selectedPlayer
+match
+^(.-) %(
+_G
+WhitelistedPlayers
+PermanentWhitelist
+_G
+WhitelistFriends
+_G
+GrabMode
+_G
+BlobmanDelay
+_G
+GrabModeSetting
+_G
+CreatureDelaySetting
+_G
+WhitelistedPlayers
+Name
+WhitelistFriends
+IsFriendsWith
+UserId
+workspace
+FindFirstChild
+Name
+SpawnedInToys
+CreatureBlobman
+_G
+GrabModeSetting
+Right Arm Grab
+Both Arms Grab
+BlobmanSeatAndOwnerScript
+CreatureGrab
+FireServer
+RightDetector
+HumanoidRootPart
+RightWeld
+wait
+CreatureDelaySetting
+Left Arm Grab
+LeftDetector
+LeftWeld
+math
+random
+Character
+CreatureDrop
+ipairs
+GetPlayers
+FindFirstChild
+isPlayerWhitelisted
+table
+insert
+getBlobman
+_G
+running
+coroutine
+create
+resume
+close
+_G
+running
+wait
+CreatureDelaySetting
+Character
+FindFirstChild
+HumanoidRootPart
+isPlayerWhitelisted
+_G
+GrabMode
+Right Arm Grab
+Both Arms Grab
+RightDetector
+RightWeld
+WaitForChild
+BlobmanSeatAndOwnerScript
+CreatureGrab
+FireServer
+unpack
+wait
+BlobmanDelay
+Left Arm Grab
+LeftDetector
+LeftWeld
+_G
+runningDestroy
+coroutine
+create
+resume
+close
+_G
+runningDestroy
+getBlobman
+ipairs
+GetPlayers
+isPlayerWhitelisted
+wait
+BlobmanDelay
+blobmanSpawned
+workspace
+WaitForChild
+Name
+SpawnedInToys
+FindFirstChild
+CreatureBlobman
+MenuToys
+SpawnToyRemoteFunction
+InvokeServer
+CFrame
+new
+blobmanHeight
+Vector3
+MakeJoints
+PrimaryPart
+Anchored
+pairs
+workspace
+Name
+SpawnedInToys
+GetChildren
+IsA
+Model
+FindFirstChild
+VehicleSeat
+findBlobmanSeat
+Occupant
+Character
+Humanoid
+MoveTo
+Position
+wait
+Sit
+PermanentWhitelist
+Name
+FindFirstChild
+LeftDetector
+Character
+HumanoidRootPart
+LeftWeld
+WaitForChild
+BlobmanSeatAndOwnerScript
+CreatureGrab
+FireServer
+unpack
+loopEnabled
+wait
+findBlobmanSeat
+Parent
+pairs
+GetPlayers
+PermanentWhitelist
+Name
+_G
+WhitelistedPlayers
+spawnBlobman
+sitOnBlobman
+loopEnabled
+spawnBlobman
+coroutine
+create
+loopBlobman
+resume
+blobmanSpawned
+close
+blobmanHeight
+match
+%((.-)%)
+selectedPlayer
+ipairs
+GetPlayers
+_G
+WhitelistedPlayers
+Name
+PermanentWhitelist
+table
+insert
+DisplayName
+ (
+)
+playerDropdown
+Refresh
+match
+%((.-)%)
+selectedPlayer
+whitelistDropdown
+Refresh
+pairs
+_G
+WhitelistedPlayers
+table
+insert
+loopEnabled
+spawnBlobman
+selectedPlayer
+_G
+WhitelistedPlayers
+selectedPlayer
+_G
+WhitelistedPlayers
+table
+find
+_G
+localWhitelist
+ipairs
+workspace
+Map
+GetDescendants
+IsA
+Part
+Name
+table
+insert
+pcall
+wait
+workspace
+FindFirstChild
+GrabParts
+GrabPart
+WeldConstraint
+Part1
+game
+Players
+GetPlayerFromCharacter
+Parent
+isWhitelisted
+Name
+Head
+poison
+pairs
+Position
+Vector3
+new
+Size
+Transparency
+wait
+coroutine
+create
+resume
+close
+pairs
+Position
+Vector3
+new
+grabHandler
+radioactive
+pcall
+wait
+workspace
+FindFirstChild
+GrabParts
+game
+Players
+GetPlayerFromCharacter
+Parent
+isWhitelisted
+Name
+HumanoidRootPart
+pairs
+GetChildren
+IsA
+BasePart
+CanCollide
+wait
+GrabPart
+WeldConstraint
+Part1
+coroutine
+create
+noclipGrab
+resume
+close
+task
+spawn
+Vector3
+new
+MenuToys
+SpawnToyRemoteFunction
+InvokeServer
+grabLine
+game
+Players
+LocalPlayer
+Parent
+grabLine
+Parent
+game
+GetService
+ReplicatedStorage
+GrabEvents
+_G
+InvisibleLineToggle
+HideGrabLine
+RestoreGrabLine
+task
+spawn
+Vector3
+new
+MenuToys
+SpawnToyRemoteFunction
+InvokeServer
+ipairs
+_G
+whitelist
+_G
+grabType
+_G
+enabled
+Velocity
+Vector3
+new
+math
+random
+MaxForce
+huge
+Instance
+BodyAngularVelocity
+Parent
+AngularVelocity
+MaxTorque
+BodyVelocity
+Instance
+new
+BodyAngularVelocity
+Parent
+AngularVelocity
+Vector3
+MaxTorque
+math
+huge
+_G
+enabled
+Name
+GrabParts
+FindFirstChild
+GrabPart
+WeldConstraint
+Part1
+grabType
+Powerful
+Spin
+ipairs
+GetChildren
+Destroy
+game
+Players
+GetPlayerFromCharacter
+Parent
+isWhitelisted
+table
+find
+_G
+whitelist
+Velocity
+workspace
+CurrentCamera
+CFrame
+lookVector
+d
+AddItem
+Instance
+new
+BodyVelocity
+MaxForce
+Vector3
+math
+huge
+_G
+flingEnabled
+_G
+flingStrength
+Name
+GrabParts
+_G
+flingEnabled
+TouchEnabled
+Parent
+pairs
+game
+Players
+LocalPlayer
+PlayerGui
+ContextActionGui
+GetDescendants
+IsA
+ImageLabel
+Image
+http://www.roblox.com/asset/?id=9603678090
+Heartbeat
+Wait
+MouseButton1Up
+Connect
+MouseButton1Down
+GetPropertyChangedSignal
+FindFirstChild
+GrabPart
+WeldConstraint
+Part1
+Model
+isWhitelisted
+_G
+flingEnabled
+flingStrength
+_G
+flingEnabled
+flingStrength
+Parent
+Disconnect
+Parent
+_G
+flingEnabled
+IsMouseButtonPressed
+Enum
+UserInputType
+MouseButton2
+flingStrength
+table
+find
+_G
+whitelist
+FindFirstChild
+GrabPart
+WeldConstraint
+Part1
+Parent
+FindFirstChildOfClass
+Humanoid
+HumanoidRootPart
+GetPlayerFromCharacter
+IsInWhitelist
+Name
+CFrame
+new
+PlatformStand
+Vector3
+Position
+AutoRotate
+AutoCrouch
+Sit
+SetStateEnabled
+Enum
+HumanoidStateType
+Ragdoll
+_G
+toggleStateUp
+_G
+toggleStateDown
+Name
+GrabParts
+_G
+toggleStateUp
+HandleGrabParts
+toggleStateDown
+table
+find
+_G
+localWhitelist
+dynamicWhitelist
+Name
+GrabParts
+FindFirstChild
+GrabPart
+WeldConstraint
+Part1
+Parent
+game
+Players
+GetPlayerFromCharacter
+IsInWhitelist
+BreakJoints
+toggle
+workspace
+ChildAdded
+Connect
+Disconnect
+toggle
+loadstring
+game
+HttpGet
+https://pastebin.com/raw/ZbU5bMxF
+Parent
+ipairs
+GetDescendants
+Name
+FindFirstAncestorWhichIsA
+table
+insert
+playerList
+Name
+ipairs
+playerList
+Name
+table
+remove
+ipairs
+Disconnect
+table
+remove
+Image
+rbxassetid://122000268316876
+Parent
+Highlight
+BillboardGui
+Size
+UDim2
+new
+StudsOffset
+Vector3
+AlwaysOnTop
+Position
+BackgroundTransparency
+Instance
+Name
+ImageOverlay
+Adornee
+ImageLabel
+DepthMode
+Enum
+HighlightDepthMode
+Occluded
+FillTransparency
+OutlineColor
+Color3
+fromRGB
+OutlineTransparency
+Name
+PartOwner
+Value
+GetDescendant
+Highlight
+FindFirstAncestorOfType
+Model
+OutlineColor
+Color3
+new
+fromRGB
+D
+MaxForce
+Vector3
+new
+Position
+Instance
+BodyPosition
+BodyGyro
+P
+MaxTorque
+CFrame
+Parent
+pcall
+RunService
+Heartbeat
+Wait
+FindFirstChild
+WeldConstraint
+Part1
+Name
+SoundPart
+Parent
+PrimaryPart
+Anchored
+workspace
+Map
+isDescendantOf
+pairs
+GetPlayers
+Character
+GetDescendants
+table
+find
+anchoredParts
+insert
+anchoredConnections
+FindFirstAncestorOfType
+Model
+createHighlightAndImage
+DescendantAdded
+Connect
+GrabParts
+GrabPart
+ipairs
+IsA
+BodyPosition
+BodyGyro
+Destroy
+GetChildren
+RunService
+Heartbeat
+Wait
+createBodyMovers
+Position
+CFrame
+onPartOwnerAdded
+ipairs
+anchoredParts
+GetDescendant
+ImageOverlay
+FindFirstAncestorOfType
+Model
+FindFirstChild
+Destroy
+BodyPosition
+BodyGyro
+Highlight
+cleanupConnections
+anchoredConnections
+cleanupConnections
+renderSteppedConnections
+compiledGroups
+ipairs
+group
+part
+FindFirstChild
+BodyPosition
+Destroy
+BodyGyro
+primaryPart
+Parent
+Highlight
+FindFirstAncestorOfType
+Model
+ImageOverlay
+compileConnections
+compileGroup
+coroutine
+status
+dead
+create
+compileCoroutineFunc
+resume
+ipairs
+compiledGroups
+primaryPart
+group
+part
+FindFirstChild
+BodyPosition
+BodyGyro
+Position
+CFrame
+offset
+anchoredParts
+OrionLib
+MakeNotification
+Name
+Error
+Content
+No anchored parts found
+Image
+rbxassetid://4483345998
+Time
+Success
+Compiled 
+ Toys together
+FindFirstChild
+Highlight
+FindFirstAncestorOfType
+Model
+createHighlightAndImage
+Parent
+IsA
+OutlineColor
+Color3
+new
+FillColor
+FillTransparency
+DepthMode
+Enum
+HighlightDepthMode
+AlwaysOnTop
+ipairs
+CFrame
+ToObjectSpace
+table
+insert
+part
+offset
+compiledGroups
+primaryPart
+group
+GetPropertyChangedSignal
+Connect
+compileConnections
+RunService
+Heartbeat
+renderSteppedConnections
+updateBodyMovers
+updateBodyMovers
+anchoredParts
+FindFirstChild
+BodyPosition
+Destroy
+BodyGyro
+Highlight
+ImageOverlay
+FindFirstAncestorOfType
+Model
+pcall
+RunService
+Heartbeat
+Wait
+Character
+FindFirstChild
+Head
+HumanoidRootPart
+pairs
+anchoredParts
+Position
+Magnitude
+GetDescendant
+Highlight
+FindFirstAncestorOfType
+Model
+OutlineColor
+Color3
+new
+FireServer
+CFrame
+PartOwner
+Value
+Name
+fromRGB
+coroutine
+status
+dead
+create
+anchorGrab
+resume
+cleanupAnchoredParts
+close
+cleanupCompiledGroups
+coroutine
+status
+dead
+create
+recoverParts
+resume
+close
+loadstring
+game
+HttpGet
+https://raw.githubusercontent.com/VerbalHubz/Verbal-Hub/refs/heads/main/draw%20script%20made%20by%20verabl%20hub/Jose
+wait
+pcall
+warn
+Error in recovering parts:
+Character
+FindFirstChild
+Head
+HumanoidRootPart
+pairs
+GetChildren
+IsA
+Model
+Parent
+Name
+SpawnedInToys
+PrimaryPart
+Position
+Magnitude
+Highlight
+OutlineColor
+Color3
+new
+GrabEvents
+SetNetworkOwner
+FireServer
+CFrame
+print
+Toy recovered and ownership set.
+coroutine
+status
+dead
+create
+recoverParts
+resume
+close
+FindFirstChild
+Name
+SpawnedInToys
+Character
+HumanoidRootPart
+CFrame
+ipairs
+GetChildren
+IsA
+Model
+SetPrimaryPartCFrame
+PrimaryPart
+wait
+BasePart
+Instance
+new
+SelectionBox
+Parent
+Adornee
+LineThickness
+Color3
+highlightOutlineColor
+Transparency
+table
+insert
+highlights
+print
+Toy grabbed:
+Position
+GrabEvents
+SetNetworkOwner
+FireServer
+unpack
+SoundPart
+FindFirstChildWhichIsA
+ipairs
+highlights
+Parent
+Destroy
+Heartbeat
+Connect
+Disconnect
+manageRecoveryCoroutine
+tick
+lastUpdateTime
+loopInterval
+loopInterval
+FindFirstChild
+match
+^(%w+)
+Name
+ (
+DisplayName
+)
+ipairs
+GetPlayers
+table
+insert
+dropdown
+Refresh
+math
+max
+min
+_G
+selectedPlayer
+pairs
+Name
+SpawnedInToys
+GetChildren
+GetDescendants
+IsA
+BasePart
+Destroy
+CanCollide
+FindFirstChild
+BodyPosition
+BodyGyro
+CFrame
+CanCollide
+Anchored
+FindFirstChild
+BodyPosition
+Instance
+new
+P
+D
+MaxForce
+Vector3
+Position
+BodyGyro
+MaxTorque
+_G
+isMoving
+wait
+_G
+selectedPlayer
+Name
+SpawnedInToys
+GetChildren
+Character
+WaitForChild
+HumanoidRootPart
+Position
+tick
+speed
+ipairs
+X
+radius
+math
+cos
+rad
+pairs
+GetDescendants
+IsA
+BasePart
+Vector3
+new
+CFrame
+Angles
+xRotation
+yRotation
+zRotation
+Z
+sin
+Y
+height
+_G
+selectedPlayer
+Name
+SpawnedInToys
+GetChildren
+Character
+WaitForChild
+HumanoidRootPart
+Position
+ipairs
+pairs
+GetDescendants
+IsA
+BasePart
+Vector3
+new
+CFrame
+Angles
+math
+rad
+xRotation
+yRotation
+zRotation
+Z
+radius
+sin
+Y
+height
+tick
+speed
+X
+cos
+_G
+selectedPlayer
+Name
+SpawnedInToys
+GetChildren
+Character
+WaitForChild
+HumanoidRootPart
+Position
+ipairs
+tick
+speed
+X
+radius
+math
+cos
+rad
+Z
+sin
+Y
+height
+pairs
+GetDescendants
+IsA
+BasePart
+Vector3
+new
+CFrame
+Angles
+xRotation
+yRotation
+zRotation
+Y
+_G
+height
+ipairs
+X
+radius
+math
+cos
+rad
+Z
+sin
+abs
+tick
+speed
+pairs
+GetDescendants
+IsA
+BasePart
+Vector3
+new
+CFrame
+Angles
+xRotation
+yRotation
+zRotation
+selectedPlayer
+Name
+SpawnedInToys
+GetChildren
+Character
+WaitForChild
+HumanoidRootPart
+Position
+_G
+selectedPlayer
+Name
+SpawnedInToys
+GetChildren
+Character
+WaitForChild
+HumanoidRootPart
+Position
+ipairs
+Y
+math
+sin
+tick
+speed
+height
+pairs
+GetDescendants
+IsA
+BasePart
+Vector3
+new
+CFrame
+Angles
+rad
+xRotation
+yRotation
+zRotation
+X
+radius
+cos
+Z
+_G
+selectedPlayer
+Name
+SpawnedInToys
+GetChildren
+Character
+WaitForChild
+HumanoidRootPart
+Position
+radius
+math
+sin
+tick
+speed
+ipairs
+X
+cos
+rad
+Z
+Y
+height
+pairs
+GetDescendants
+IsA
+BasePart
+Vector3
+new
+CFrame
+Angles
+xRotation
+yRotation
+zRotation
+_G
+selectedEffect
+_G
+isMoving
+selectedEffect
+Ferris Wheel 🎡
+applyEffect
+ferrisWheelEffect
+Orbit 🪐
+orbitEffect
+Tornado 🌪️
+Bounce 🎢
+bounceEffect
+Wave 🌊
+Pulsing 💡
+pulsingEffect
+pairs
+GetPlayers
+DisplayName
+ (
+Name
+)
+_G
+selectedPlayer
+pairs
+GetPlayers
+DisplayName
+ (
+Name
+)
+table
+insert
+dropdown
+Refresh
+_G
+speed
+_G
+radius
+_G
+height
+_G
+xRotation
+_G
+yRotation
+_G
+zRotation
+_G
+layers
+_G
+WhitelistedPlayers
+AngularVelocity
+Debris
+AddItem
+Instance
+new
+BodyVelocity
+Name
+BodyVel
+Velocity
+MaxForce
+Vector3
+math
+huge
+Sound
+SoundId
+rbxassetid://123456789
+Play
+pairs
+GetChildren
+IsA
+BodyAngularVelocity
+Destroy
+AngularVel
+MaxTorque
+spinSpeed
+coroutine
+create
+resume
+close
+Character
+FindFirstChild
+Head
+HumanoidRootPart
+pairs
+GetPlayers
+IsInWhitelist
+Name
+Position
+Magnitude
+FireServer
+CFrame
+Vector3
+new
+spinSpeed
+wait
+coroutine
+create
+resume
+close
+Character
+FindFirstChild
+Head
+HumanoidRootPart
+pairs
+GetPlayers
+IsInWhitelist
+Name
+Position
+Magnitude
+FireServer
+CFrame
+Vector3
+new
+math
+random
+wait
+coroutine
+create
+resume
+close
+Character
+FindFirstChild
+Head
+HumanoidRootPart
+pairs
+GetPlayers
+IsInWhitelist
+Name
+Position
+Magnitude
+Vector3
+new
+math
+random
+FireServer
+CFrame
+wait
+coroutine
+create
+resume
+close
+Character
+FindFirstChild
+Head
+HumanoidRootPart
+pairs
+GetPlayers
+IsInWhitelist
+Name
+Position
+Magnitude
+FireServer
+CFrame
+Vector3
+new
+math
+random
+wait
+coroutine
+create
+resume
+close
+Character
+FindFirstChild
+Head
+HumanoidRootPart
+pairs
+GetPlayers
+IsInWhitelist
+Name
+Position
+Magnitude
+FireServer
+CFrame
+Vector3
+new
+math
+random
+wait
+match
+^(.-) %(
+match
+^(.-) %(
+Refresh
+pairs
+_G
+WhitelistedPlayers
+table
+insert
+ipairs
+GetPlayers
+_G
+WhitelistedPlayers
+Name
+ (
+DisplayName
+)
+table
+insert
+Refresh
+OrionLib
+MakeNotification
+Name
+Player Whitelisted
+Content
+ has been added to the whitelist.
+Image
+rbxassetid://4483345998
+Time
+_G
+WhitelistedPlayers
+_G
+WhitelistedPlayers
+PermanentWhitelist
+OrionLib
+MakeNotification
+Name
+Player Removed from Whitelist
+Content
+ has been removed from the whitelist.
+Image
+rbxassetid://4483345998
+Time
+Cannot Remove Player
+ cannot be removed from the whitelist.
+GetPlayerFromCharacter
+Parent
+IsInWhitelist
+Name
+FireServer
+CFrame
+Jump
+CFrame
+new
+AddItem
+MaxForce
+Vector3
+new
+math
+huge
+Parent
+Instance
+BodyVelocity
+Velocity
+ipairs
+GetPlayers
+Character
+IsInWhitelist
+Name
+Position
+Magnitude
+_G
+ExecutePowerfulAura
+MakePlayerJump
+ApplyKickAuraEffect
+FindFirstChild
+HumanoidRootPart
+FindFirstChildOfClass
+Humanoid
+pairs
+FindFirstChild
+HumanoidRootPart
+FindFirstChildOfClass
+BodyVelocity
+Destroy
+_G
+PowerfulAuraActive
+Heartbeat
+Connect
+_G
+PowerfulAuraActive
+grabNearbyPlayersPowerfulAura
+_G
+KickAuraActive
+Disconnect
+Heartbeat
+Connect
+_G
+KickAuraActive
+GrabEvents
+DestroyGrabLine
+FireServer
+wait
+Position
+Magnitude
+GrabEvents
+SetNetworkOwner
+FireServer
+CFrame
+task
+delay
+_G
+GrabCooldown
+Health
+task
+delay
+_G
+KillDelay
+Health
+ChangeState
+Enum
+HumanoidStateType
+Dead
+_G
+AuraEnabled
+rootPart
+ipairs
+GetPlayers
+Player
+IsInWhitelist
+Name
+Character
+FindFirstChild
+HumanoidRootPart
+FindFirstChildOfClass
+Humanoid
+getDistance
+MaxDistance
+killPlayer
+GrabEvents
+DestroyGrabLine
+FireServer
+_G
+AuraEnabled
+Heartbeat
+Connect
+Disconnect
+_G
+AuraEnabled
+_G
+AuraEnabled
+stopAura
+Humanoid
+ChangeState
+Enum
+HumanoidStateType
+Physics
+Running
+humanRootPart
+CFrame
+new
+Position
+Angles
+ToEulerAnglesYXZ
+_G
+teleporting
+originalPosition
+humanRootPart
+CFrame
+ipairs
+game
+Players
+GetPlayers
+whitelist
+Name
+Character
+FindFirstChild
+HumanoidRootPart
+wait
+teleportSpeed
+Disconnect
+GetService
+RunService
+Heartbeat
+Connect
+_G
+teleporting
+FindFirstChild
+HumanoidRootPart
+humanRootPart
+CFrame
+new
+teleportDepth
+Disconnect
+_G
+teleporting
+humanRootPart
+originalPosition
+CFrame
+humanRootPart
+WaitForChild
+HumanoidRootPart
+_G
+teleporting
+toggleTeleportLoop
+_G
+teleportSpeed
+Character
+FindFirstChild
+Humanoid
+Sit
+PlatformStand
+players
+LocalPlayer
+toggle
+MakePlayerStand
+pairs
+Character
+GetDescendants
+IsA
+BasePart
+Name
+HumanoidRootPart
+CollisionGroup
+n
+CanTouch
+Massless
+CanCollide
+CanQuery
+toggle
+pairs
+players
+GetPlayers
+LocalPlayer
+Character
+SetBodyPartProperties
+wait
+toggle
+coroutine
+create
+ApplySettingsLoop
+resume
+_G
+WhitelistedPlayers
+PermanentWhitelist
+ipairs
+GetDescendants
+IsA
+BasePart
+CanCollide
+Instance
+new
+BodyVelocity
+Velocity
+Vector3
+_G
+downSpeed
+MaxForce
+math
+huge
+Parent
+pairs
+GetPlayers
+LocalPlayer
+Character
+FindFirstChild
+HumanoidRootPart
+IsInWhitelist
+Name
+Magnitude
+_G
+GrabRange
+descendToHell
+grabbedPlayers
+CFrame
+new
+pcall
+Position
+GrabEvent
+FireServer
+unpack
+Heartbeat
+Connect
+_G
+loopActive
+Disconnect
+pairs
+_G
+grabbedPlayers
+FindFirstChild
+HumanoidRootPart
+FindFirstChildOfClass
+BodyVelocity
+Destroy
+_G
+loopActive
+DisconnectTouchEvents
+WaitForChild
+HumanoidRootPart
+_G
+downSpeed
+Character
+IsInWhitelist
+Name
+GetPlayers
+pairs
+shouldAffectPlayer
+Character
+FindFirstChild
+Position
+HumanoidRootPart
+Magnitude
+GrabRange
+Spin
+_G
+Auras
+SpinAuraConfig
+Range
+CFrame
+new
+Angles
+pcall
+FireServer
+unpack
+Parent
+FindFirstChild
+HumanoidRootPart
+Freeze
+Name
+FreezeBodyVelocity
+PlatformStand
+Instance
+new
+BodyVelocity
+WalkSpeed
+JumpPower
+Velocity
+Vector3
+MaxForce
+TweakOut
+_G
+Auras
+TweakOutAuraConfig
+DownwardVelocity
+math
+huge
+TweakOutBodyVelocity
+Jump
+Fling
+MaxVelocity
+FlingBodyVelocity
+random
+Spin
+SpinBodyVelocity
+Position
+Unit
+SpinAuraConfig
+GrabSpeed
+AddItem
+Character
+CFrame
+GrabOffset
+pcall
+FindFirstChildOfClass
+Humanoid
+FireServer
+unpack
+Heartbeat
+Connect
+_G
+Auras
+FreezeAuraActive
+Left Arm
+Freeze
+TweakOutAuraActive
+HumanoidRootPart
+TweakOut
+FlingAuraActive
+Fling
+SpinAuraActive
+Spin
+Disconnect
+pairs
+FindFirstChild
+Humanoid
+HumanoidRootPart
+_G
+Auras
+FreezeAuraActive
+WalkSpeed
+JumpPower
+PlatformStand
+Destroy
+FlingBodyVelocity
+TweakOutBodyVelocity
+FreezeBodyVelocity
+SpinBodyVelocity
+_G
+Auras
+FreezeAuraActive
+TweakOutAuraActive
+FlingAuraActive
+SpinAuraActive
+DisconnectTouchEvents
+pairs
+GetPlayers
+Character
+FindFirstChild
+HumanoidRootPart
+IsInWhitelist
+Name
+Position
+Magnitude
+range
+table
+insert
+tick
+separationAngle
+math
+pi
+pairs
+Character
+HumanoidRootPart
+Position
+Vector3
+new
+Magnitude
+Instance
+BodyPosition
+CFrame
+GrabEvents
+SetNetworkOwner
+FireServer
+unpack
+P
+Parent
+AddItem
+MaxForce
+D
+cos
+orbitRadius
+sin
+orbitSpeed
+isLooping
+Heartbeat
+Connect
+Disconnect
+wait
+updateInterval
+toggleLoop
+orbitSpeed
+_G
+Auras
+FreezeAuraActive
+updateAuras
+_G
+Auras
+TweakOutAuraActive
+updateAuras
+_G
+Auras
+TweakOutAuraConfig
+DownwardVelocity
+_G
+Auras
+FlingAuraActive
+updateAuras
+_G
+Auras
+MaxVelocity
+_G
+Auras
+SpinAuraActive
+updateAuras
+_G
+Auras
+SpinAuraConfig
+Range
+_G
+Auras
+SpinAuraConfig
+GrabSpeed
+_G
+Auras
+SpinAuraConfig
+GrabOffset
+Vector3
+new
+X
+Y
+game
+Players
+LocalPlayer
+Character
+FindFirstChild
+Head
+ProfileFrame
+ImageColor3
+Color3
+new
+ProfileImage
+Instance
+ImageLabel
+Size
+UDim2
+Position
+NameLabel
+BackgroundTransparency
+TextColor3
+ZIndex
+Image
+https://www.roblox.com/headshot-thumbnail/image?userId=
+UserId
+&width=720&height=720&format=png
+TextLabel
+Adornee
+StudsOffset
+Vector3
+AlwaysOnTop
+rbxassetid://6031068420
+PlayerESP
+BillboardGui
+Name
+Parent
+Text
+ (
+DisplayName
+)
+TextScaled
+Font
+Enum
+GothamBold
+TextStrokeTransparency
+game
+Players
+LocalPlayer
+Character
+FindFirstChild
+HighlightESP
+Instance
+new
+Highlight
+Name
+FillColor
+Color3
+fromRGB
+FillTransparency
+OutlineTransparency
+Adornee
+Parent
+Character
+FindFirstChild
+Head
+PlayerESP
+Destroy
+Character
+FindFirstChild
+HighlightESP
+Destroy
+_G
+CircleESPEnabled
+pairs
+game
+Players
+GetPlayers
+createCircleESP
+clearCircleESP
+_G
+HighlightESPEnabled
+pairs
+game
+Players
+GetPlayers
+createHighlightESP
+clearHighlightESP
+game
+Players
+LocalPlayer
+Character
+FindFirstChild
+Head
+PlayerESP
+Size
+UDim2
+new
+Position
+Magnitude
+math
+clamp
+_G
+ESPDistanceFactor
+ESPMinScale
+ESPMaxScale
+_G
+CircleESPEnabled
+pairs
+game
+Players
+GetPlayers
+LocalPlayer
+Character
+scaleESPWithDistance
+CharacterAdded
+Connect
+CharacterRemoving
+_G
+HighlightESPEnabled
+createHighlightESP
+wait
+CircleESPEnabled
+createCircleESP
+clearCircleESP
+clearHighlightESP
+updateESP
+ipairs
+whitelistedPlayers
+Name
+wait
+game
+GetService
+Players
+LocalPlayer
+isWhitelisted
+ReplicatedStorage
+CharacterEvents
+Struggle
+FireServer
+CharacterAdded
+Connect
+WaitForChild
+Humanoid
+Died
+Connect
+isWhitelisted
+rainbowColors
+wait
+messageLabel
+Text
+string
+sub
+TextColor3
+Visible
+TweenInfo
+new
+Enum
+EasingStyle
+Quad
+EasingDirection
+Out
+BackgroundTransparency
+TweenService
+Create
+Play
+TweenInfo
+new
+Enum
+EasingStyle
+Quad
+EasingDirection
+In
+BackgroundTransparency
+TweenService
+Create
+Play
+Completed
+Connect
+Visible
+typeMessage
+Nope, Your Not Gone Bitch Ass Boy/Girl N Word ;)
+wait
+smoothHide
+infoBox
+sound
+Stop
+smoothShow
+Play
+spawn
+antiVoidEnabled
+wait
+LocalPlayer
+Character
+FindFirstChild
+HumanoidRootPart
+Position
+Y
+voidYLevel
+CFrame
+new
+safePosition
+showTypedMessage
+antiVoidEnabled
+checkVoid
+LocalPlayer
+Character
+FindFirstChild
+HumanoidRootPart
+workspace
+OceanPart
+Position
+Y
+antiVoidEnabled
+checkVoid
+wait
+ipairs
+_G
+whitelistedPlayers
+pairs
+_G
+connections
+Disconnect
+_G
+autoStruggleCoroutine
+Heartbeat
+Connect
+Character
+FindFirstChild
+Head
+PartOwner
+isWhitelisted
+Value
+Struggle
+FireServer
+pairs
+GetChildren
+IsA
+BasePart
+Anchored
+BeingHeld
+Heartbeat
+Wait
+_G
+toggleActiveAntiGrabAndBlobman
+initialPosition
+CFrame
+new
+Character
+FindFirstChild
+HumanoidRootPart
+_G
+toggleActiveAntiGrabAndBlobman
+AssemblyLinearVelocity
+Position
+initialPosition
+Magnitude
+velocityThreshold
+teleportDistanceThreshold
+Vector3
+new
+AssemblyAngularVelocity
+Character
+FindFirstChild
+HumanoidRootPart
+_G
+toggleActiveAntiGrabAndBlobman
+RenderStepped
+Connect
+table
+insert
+connections
+initialPosition
+Position
+Character
+FindFirstChild
+HumanoidRootPart
+BeingHeld
+Value
+Head
+FindFirstChild
+PartOwner
+isWhitelisted
+Position
+_G
+initialPosition
+Magnitude
+grabDistanceThreshold
+AssemblyLinearVelocity
+Vector3
+new
+AssemblyAngularVelocity
+Struggle
+FireServer
+Disconnect
+_G
+antiKillEnabled
+Character
+FindFirstChild
+Humanoid
+isWhitelisted
+Name
+Health
+math
+huge
+MaxHealth
+_G
+antiKillEnabled
+isWhitelisted
+Name
+HealthChanged
+Connect
+Character
+FindFirstChild
+Humanoid
+MaxHealth
+Health
+_G
+toggleActiveAntiGrabAndBlobman
+antiKillEnabled
+autoStruggleCoroutine
+Disconnect
+ipairs
+_G
+whitelistedPlayers
+_G
+toggleActiveAntiKick
+Character
+FindFirstChild
+HumanoidRootPart
+FireServer
+task
+wait
+_G
+toggleActiveAntiKick
+coroutine
+create
+runAntiKickLoop
+resume
+AssemblyLinearVelocity
+Vector3
+new
+AssemblyAngularVelocity
+CFrame
+_G
+initialPosition
+_G
+antiBlobmanActive
+Character
+FindFirstChild
+HumanoidRootPart
+Value
+AssemblyLinearVelocity
+Position
+initialPosition
+Magnitude
+velocityThreshold
+grabDistanceThreshold
+resetVelocityAndPosition
+FireServer
+task
+wait
+coroutine
+create
+antiBlobmanLoop
+resume
+_G
+antiBlobmanActive
+initialPosition
+Character
+FindFirstChild
+HumanoidRootPart
+Position
+Vector3
+new
+toggleAntiKick
+toggleAntiBlobman
+_G
+antiBlobmanActive
+Character
+FindFirstChild
+HumanoidRootPart
+Value
+Position
+initialPosition
+Magnitude
+grabDistanceThreshold
+resetVelocityAndPosition
+WaitForChild
+Humanoid
+FindFirstChild
+Ragdolled
+GetPropertyChangedSignal
+Value
+Connect
+Value
+ipairs
+GetChildren
+IsA
+BasePart
+Anchored
+game
+Players
+LocalPlayer
+Character
+CharacterAdded
+Connect
+Disconnect
+characterAddedConn
+Disconnect
+coroutine
+close
+selectedAutoAttacker
+flingVelocity
+Auto Attacker - Fling Away
+Auto Attacker - Stun
+Auto Attacker - Heaven
+selectedAutoAttacker
+math
+random
+pairs
+whitelistedPlayers
+stopAutoDefend
+coroutine
+create
+resume
+wait
+pcall
+stopAutoDefend
+Character
+FindFirstChild
+Head
+Value
+isWhitelisted
+Name
+Struggle
+FireServer
+Torso
+HumanoidRootPart
+CFrame
+task
+wait
+selectedAutoAttacker
+Auto Attacker - Fling Away
+MaxForce
+Vector3
+new
+math
+huge
+AddItem
+Parent
+Velocity
+random
+flingVelocity
+l
+Instance
+BodyVelocity
+Auto Attacker - Stun
+Humanoid
+WalkSpeed
+JumpPower
+Auto Attacker - Heaven
+Auto Attacker - Spin
+coroutine
+resume
+SpinGyro
+BodyGyro
+P
+create
+MaxTorque
+Make Player Tweak Out - Auto Attack
+CanCollide
+HellVelocity
+Kill Player - Auto Defend
+KillVelocity
+Random Auto Defend
+randomAutoDefend
+PartOwner
+CFrame
+Angles
+math
+rad
+wait
+toggleActiveAntiKick
+game
+Players
+LocalPlayer
+Character
+WaitForChild
+HumanoidRootPart
+GetService
+ReplicatedStorage
+CharacterEvents
+RagdollRemote
+FireServer
+unpack
+task
+wait
+toggleActiveAntiKick
+game
+GetService
+ReplicatedStorage
+FindFirstChild
+GrabEvents
+warn
+GrabEvents folder not found in ReplicatedStorage!
+CreateGrabLine
+Destroy
+Parent
+Instance
+new
+RemoteEvent
+Name
+loadstring
+game
+HttpGet
+https://raw.githubusercontent.com/VerbalHubz/Verbal-Hub/main/not%20enough%20space%20in%20verbal
+pairs
+GetDescendants
+IsA
+BasePart
+CanCollide
+pairs
+GetDescendants
+IsA
+BasePart
+CanCollide
+Position
+FindFirstChild
+BodyGyro
+Instance
+new
+P
+D
+MaxTorque
+Vector3
+CFrame
+Anchored
+BodyPosition
+MaxForce
+ipairs
+GetDescendants
+IsA
+Model
+FindFirstChild
+SoundPart
+activeToys
+angleOffset
+math
+random
+pairs
+activeToys
+FindFirstChild
+SoundPart
+ipairs
+GetChildren
+IsA
+BodyMover
+BodyGyro
+Destroy
+FindFirstChild
+SpawnLocation
+pairs
+activeToys
+SoundPart
+Position
+CFrame
+new
+Unit
+Vector3
+math
+random
+_G
+AuraConfig
+chaosFactor
+Character
+FindFirstChild
+HumanoidRootPart
+pairs
+activeToys
+SoundPart
+Position
+Y
+math
+sin
+_G
+AuraConfig
+tornadoHeight
+X
+radius
+cos
+angleOffset
+orbitSpeed
+updateInterval
+rad
+Z
+Vector3
+new
+CFrame
+Angles
+Character
+FindFirstChild
+HumanoidRootPart
+pairs
+activeToys
+SoundPart
+angleOffset
+_G
+AuraConfig
+orbitSpeed
+updateInterval
+math
+rad
+Position
+Z
+radius
+sin
+Vector3
+new
+CFrame
+Angles
+Y
+height
+X
+cos
+Character
+FindFirstChild
+HumanoidRootPart
+pairs
+activeToys
+SoundPart
+Position
+Y
+math
+sin
+_G
+AuraConfig
+waveHeight
+X
+radius
+cos
+angleOffset
+waveSpeed
+updateInterval
+rad
+Z
+Vector3
+new
+CFrame
+Angles
+Character
+FindFirstChild
+HumanoidRootPart
+pairs
+activeToys
+SoundPart
+angleOffset
+_G
+AuraConfig
+orbitSpeed
+updateInterval
+math
+rad
+Position
+Y
+height
+random
+X
+radius
+cos
+Z
+sin
+Vector3
+new
+CFrame
+Angles
+Character
+FindFirstChild
+HumanoidRootPart
+pairs
+activeToys
+SoundPart
+Position
+ipairs
+GetPlayers
+Vector3
+new
+math
+random
+CFrame
+Angles
+Character
+FindFirstChild
+HumanoidRootPart
+pairs
+activeToys
+SoundPart
+_G
+AuraConfig
+radius
+math
+sin
+tick
+pulseSpeed
+pulseScale
+height
+cos
+angleOffset
+orbitSpeed
+updateInterval
+rad
+Vector3
+new
+CFrame
+Angles
+Position
+Z
+spinSpeed
+Y
+waveHeight
+X
+Character
+FindFirstChild
+HumanoidRootPart
+pairs
+activeToys
+SoundPart
+Velocity
+Anchored
+_G
+AuraConfig
+flingPower
+tick
+Vector3
+new
+math
+cos
+sin
+angleOffset
+orbitSpeed
+updateInterval
+rad
+Character
+FindFirstChild
+HumanoidRootPart
+pairs
+activeToys
+SoundPart
+Vector3
+new
+math
+random
+_G
+AuraConfig
+chaosFactor
+Position
+CFrame
+Angles
+Character
+FindFirstChild
+HumanoidRootPart
+pairs
+activeToys
+SoundPart
+Position
+X
+math
+cos
+Z
+sin
+Vector3
+new
+CFrame
+Angles
+_G
+AuraConfig
+radius
+tick
+pulseSpeed
+pulseScale
+Y
+height
+angleOffset
+orbitSpeed
+updateInterval
+rad
+Character
+FindFirstChild
+HumanoidRootPart
+pairs
+activeToys
+SoundPart
+CFrame
+Angles
+Vector3
+new
+math
+random
+_G
+AuraConfig
+radius
+height
+Position
+_G
+AuraConfig
+selectedEffect
+Blackhole
+blackholeEffect
+Tornado
+Orbit
+orbitEffect
+Wave
+Random
+randomEffect
+Annoy
+annoyEffect
+Chaos
+chaosEffect
+Fling
+flingEffect
+Jitter
+jitterEffect
+Zoom
+Scatter
+scatterEffect
+_G
+AuraConfig
+isMoving
+Heartbeat
+Connect
+Disconnect
+os
+clock
+lastUpdateTime
+_G
+AuraConfig
+updateInterval
+Character
+FindFirstChild
+HumanoidRootPart
+pairs
+activeToys
+SoundPart
+Position
+Vector3
+new
+math
+random
+CFrame
+Angles
+_G
+AuraConfig
+selectedEffect
+_G
+AuraConfig
+isMoving
+_G
+AuraConfig
+orbitSpeed
+_G
+AuraConfig
+spinSpeed
+_G
+AuraConfig
+radius
+_G
+AuraConfig
+height
+_G
+AuraConfig
+layers
+_G
+AuraConfig
+tornadoHeight
+_G
+AuraConfig
+waveHeight
+_G
+AuraConfig
+waveSpeed
+_G
+AuraConfig
+chaosFactor
+_G
+AuraConfig
+blackholePower
+pairs
+GetChildren
+Name
+MusicKeyboard
+table
+insert
+cachedToys
+toy
+parts
+ipairs
+FindFirstChild
+workspace
+SpawnedInToys
+cachedToys
+Character
+CharacterAdded
+Wait
+WaitForChild
+HumanoidRootPart
+Position
+pairs
+ipairs
+parts
+CFrame
+new
+X
+Y
+Z
+game
+GetService
+ReplicatedStorage
+GrabEvents
+SetNetworkOwner
+FireServer
+unpack
+loopActive
+wait
+loopSpeed
+loopActive
+spawn
+executeLoop
+loopSpeed
+math
+clamp
+Set 1
+partsSet1
+Set 2
+Set 3
+partsSet3
+pairs
+GetChildren
+Name
+MusicKeyboard
+table
+insert
+workspace
+FindFirstChild
+SpawnedInToys
+Character
+CharacterAdded
+Wait
+WaitForChild
+HumanoidRootPart
+Position
+ipairs
+_G
+Songs
+SelectedSong
+pairs
+FindFirstChild
+CFrame
+new
+X
+Y
+Z
+game
+GetService
+ReplicatedStorage
+GrabEvents
+SetNetworkOwner
+FireServer
+unpack
+wait
+spawn
+_G
+SelectedSong
+pairs
+GetChildren
+Name
+MusicKeyboard
+table
+insert
+workspace
+FindFirstChild
+SpawnedInToys
+Character
+CharacterAdded
+Wait
+FindFirstChild
+HumanoidRootPart
+Position
+ipairs
+pairs
+CFrame
+new
+X
+Y
+Z
+GrabEvents
+SetNetworkOwner
+FireServer
+unpack
+wait
+spawn
+hookmetamethod
+game
+__namecall
+Head
+Torso
+Left Leg
+Right Leg
+R
+RenderStepped
+Connect
+getnamecallmethod
+workspace
+checkcaller
+Raycast
+SIL
+Character
+HumanoidRootPart
+Humanoid
+Health
+dist
+Position
+Unit
+RaycastParams
+new
+FilterDescendantsInstances
+FilterType
+Enum
+RaycastFilterType
+Include
+magnitude
+math
+random
+unpack
+math
+huge
+pairs
+PS
+GetPlayers
+Name
+Character
+FindFirstChild
+HumanoidRootPart
+Cam
+WorldToScreenPoint
+Position
+magnitude
+SIL
+Disconnect
+dist
+SIL
+ToggleSilentAim
+pairs
+whitelistedPlayers
+Name
+pcall
+wait
+Position
+playerCharacter
+Head
+Vector3
+new
+Instance
+BodyPosition
+P
+Parent
+Main
+pairs
+GetChildren
+isWhitelisted
+pcall
+wait
+toysFolder
+FindFirstChild
+Campfire
+spawnItemCf
+CFrame
+WaitForChild
+MoveTo
+FireServer
+Name
+FirePlayerPart
+Size
+Torso
+Position
+playerCharacter
+Head
+Vector3
+new
+Character
+HumanoidRootPart
+wait
+coroutine
+create
+fireAll
+resume
+close
+bananaGrabbed
+CFrame
+workspace
+WaitForChild
+Name
+SpawnedInToys
+FoodBanana
+SoundPart
+GrabEvents
+SetNetworkOwner
+FireServer
+unpack
+FoodBanana
+CFrame
+new
+Vector3
+MenuToys
+SpawnToyRemoteFunction
+InvokeServer
+unpack
+LocalPlayer
+Character
+HoldPart
+HoldItemRemoteFunction
+InvokeServer
+unpack
+Name
+workspace
+SpawnedInToys
+FoodBanana
+LocalPlayer
+FoodBanana
+workspace
+FindFirstChild
+Name
+SpawnedInToys
+HoldEvents
+Use
+FireServer
+unpack
+FindFirstChild
+FoodBanana
+Position
+Vector3
+new
+CFrame
+HoldPart
+DropItemRemoteFunction
+InvokeServer
+unpack
+Character
+Head
+LocalPlayer
+workspace
+Name
+SpawnedInToys
+ragdollActive
+pcall
+wait
+pairs
+GetChildren
+Name
+BananaPeel
+FindFirstChild
+TouchInterest
+Size
+Vector3
+new
+Transparency
+Instance
+BodyPosition
+P
+LocalPlayer
+Character
+workspace
+SpawnedInToys
+FoodBanana
+spawnBanana
+WaitForChild
+BodyGyro
+MaxTorque
+CFrame
+Angles
+math
+rad
+Parent
+Main
+D
+MaxForce
+Position
+ragdollActive
+pcall
+wait
+Character
+whitelist
+Name
+CFrame
+Angles
+math
+rad
+wait
+Position
+HumanoidRootPart
+Head
+Vector3
+new
+ragdollActive
+coroutine
+create
+ragdollAll
+resume
+spawnBanana
+wait
+useBanana
+dropBananaNearLocalPlayer
+toggleRagdollAll
+grabBanana
+LocalPlayer
+holdBanana
+bananaGrabbed
+RenderStepped
+Connect
+isFollowActive
+playerCharacter
+Character
+playerPosition
+ipairs
+GetPlayers
+FindFirstChild
+HumanoidRootPart
+angles
+followSpeed
+RenderStepped
+Wait
+angle
+offsetX
+math
+cos
+followDistance
+offsetZ
+sin
+newPosition
+Vector3
+new
+CFrame
+Position
+isFollowActive
+followSpeed
+followDistance
+sub
+conversionTableUpper
+conversionTableLower
+customWord
+selectedWord
+selectedBadSentence
+selectedRizzPickupLine
+loadstring
+game
+HttpGet
+https://raw.githubusercontent.com/AnthonyIsntHere/anthonysrepository/main/scripts/AntiChatLogger.lua
+customWord
+selectedWord
+convertText
+game
+ReplicatedStorage
+DefaultChatSystemChatEvents
+SayMessageRequest
+FireServer
+All
+customWord
+selectedBadSentence
+convertText
+game
+ReplicatedStorage
+DefaultChatSystemChatEvents
+SayMessageRequest
+FireServer
+All
+customWord
+selectedRizzPickupLine
+convertText
+game
+ReplicatedStorage
+DefaultChatSystemChatEvents
+SayMessageRequest
+FireServer
+All
+sub
+conversionTableUpper
+conversionTableLower
+selectedNsfwSentence
+selectedNsfwPickupLine
+loadstring
+game
+HttpGet
+https://raw.githubusercontent.com/AnthonyIsntHere/anthonysrepository/main/scripts/AntiChatLogger.lua
+customNsfwWord
+selectedNsfwSentence
+convertNsfwText
+game
+ReplicatedStorage
+DefaultChatSystemChatEvents
+SayMessageRequest
+FireServer
+All
+customNsfwWord
+selectedNsfwPickupLine
+convertNsfwText
+game
+ReplicatedStorage
+DefaultChatSystemChatEvents
+SayMessageRequest
+FireServer
+All
+_G
+selectedOption
+selected
+_G
+selectedOption
+positions
+humanoidRootPart
+FindFirstChild
+HumanoidRootPart
+CFrame
+game
+Players
+LocalPlayer
+Character
+pairs
+GetPlayers
+Name
+ (
+DisplayName
+)
+_G
+selectedPlayer
+ipairs
+GetPlayers
+table
+insert
+Name
+ (
+DisplayName
+)
+playerDropdown
+Refresh
+updateDropdown
+wait
+spawn
+_G
+followPlayerEnabled
+selectedPlayer
+Character
+FindFirstChild
+HumanoidRootPart
+CFrame
+new
+Position
+MoveTo
+wait
+_G
+followPlayerEnabled
+followPlayer
+_G
+lockOnEnabled
+selectedPlayer
+Character
+FindFirstChild
+HumanoidRootPart
+Position
+camera
+CFrame
+new
+wait
+_G
+viewEnabled
+selectedPlayer
+Character
+FindFirstChild
+Humanoid
+camera
+CameraSubject
+FieldOfView
+wait
+_G
+highlightEnabled
+selectedPlayer
+Character
+highlight
+Adornee
+Parent
+Instance
+new
+BillboardGui
+Size
+UDim2
+StudsOffset
+Vector3
+Adornee
+Character
+FindFirstChild
+Head
+HumanoidRootPart
+Parent
+Frame
+BackgroundTransparency
+BorderSizePixel
+TextLabel
+TextColor3
+Color3
+fromRGB
+TextScaled
+Text
+DisplayName
+ / 
+Name
+_G
+playerInfoEnabled
+selectedPlayer
+Character
+createPlayerInfoGui
+Parent
+Destroy
+ColorCorrection
+Instance
+new
+ColorCorrectionEffect
+Name
+WarmTint
+Saturation
+TintColor
+Color3
+fromRGB
+Tropic
+SkyboxBk
+http://www.roblox.com/asset/?id=169210090
+SkyboxFt
+http://www.roblox.com/asset/?id=169210121
+StarCount
+SkyboxDn
+http://www.roblox.com/asset/?id=169210108
+Sky
+SkyboxUp
+http://www.roblox.com/asset/?id=169210149
+SkyboxLf
+http://www.roblox.com/asset/?id=169210133
+Lighting
+OutdoorAmbient
+ClockTime
+FogColor
+FogEnd
+game
+GetService
+Brightness
+ColorShift_Bottom
+ColorShift_Top
+FogStart
+ExposureCompensation
+ShadowSoftness
+Ambient
+Bloom
+Parent
+Blur
+BlurEffect
+Size
+SunRays
+SunRaysEffect
+Intensity
+SkyboxRt
+http://www.roblox.com/asset/?id=169210143
+BloomEffect
+Threshold
+Lighting
+Brightness
+OutdoorAmbient
+Color3
+new
+game
+GetService
+ClearAllChildren
+FogEnd
+toggleValue
+enableGraphics
+disableGraphics
+loadstring
+game
+HttpGet
+https://raw.githubusercontent.com/VerbalHubz/Verbal-Hub/main/MoonyGui.lua
+game
+GetService
+Players
+UserInputService
+RunService
+LocalPlayer
+mouse
+GetMouse
+updateTelekinesis
+InputBegan
+Connect
+RenderStepped
+OutlineColor
+Color3
+fromRGB
+Instance
+new
+Highlight
+FillColor
+FindFirstChildOfClass
+Highlight
+Destroy
+workspace
+CurrentCamera
+CFrame
+Position
+LookVector
+new
+KeyCode
+Enum
+C
+mouse
+Target
+IsA
+BasePart
+IsDescendantOf
+workspace
+Terrain
+Map
+loadstring
+game
+HttpGet
+https://raw.githubusercontent.com/idkuserlua/hi/refs/heads/main/aadda
+https://raw.githubusercontent.com/VerbalHubz/Verbal-Hub/refs/heads/main/NOTHING%20TEHHE
+loadstring
+game
+HttpGet
+https://raw.githubusercontent.com/idkuserlua/hi/refs/heads/main/aadda
+https://raw.githubusercontent.com/VerbalHubz/Verbal-Hub/refs/heads/main/VHS%20CRACKED
+loadstring
+game
+HttpGet
+https://raw.githubusercontent.com/VerbalHubz/Verbal-Hub/main/Bee%20Swarm%20Sim.Lua
+loadstring
+game
+HttpGet
+https://raw.githubusercontent.com/VerbalHubz/Verbal-Hub/main/Protected_3155119884811326.txt
+loadstring
+game
+HttpGet
+https://raw.githubusercontent.com/VerbalHubz/Verbal-Hub/main/Protected_2929642756813318.txt
+getgenv
+Key
+fuckswag
+loadstring
+game
+HttpGet
+https://raw.githubusercontent.com/1price/usercreation/refs/heads/main/UserCreation.lua
+loadstring
+game
+HttpGet
+https://raw.githubusercontent.com/shadow62x/catbypass/main/upfix
+loadstring
+game
+HttpGet
+https://pastebin.com/raw/KVDMivHG
+getgenv
+Key
+Bash
+loadstring
+game
+HttpGet
+https://raw.githubusercontent.com/crceck123/roblox-script/main/MC_IY%20Dex.txt
+loadstring
+game
+HttpGet
+https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source
+loadstring
+game
+HttpGet
+https://raw.githubusercontent.com/FilteringEnabled/NamelessAdmin/main/Source
+loadstring
+game
+HttpGet
+https://raw.githubusercontent.com/fgdergewrgegr/SVH/main/VHSV4
+loadstring
+game
+HttpGet
+https://raw.githubusercontent.com/BlizTBr/scripts/main/FTAP.lua
+loadstring
+game
+HttpGet
+https://raw.githubusercontent.com/GGH52lan/GGH52lan/main/keyboard.txt
+setclipboard
+https://discord.gg/yfQNMyJjnq
+OrionLib
+MakeNotification
+Name
+You Copied The Discord Link
+Content
+Discord link copied to clipboard!
+Image
+rbxassetid://4483345998
+Time
+game
+Players
+GetPlayers
+Set
+Players in Server: 
+wait
+game
+GetService
+Stats
+Network
+ServerStatsItem
+Data Ping
+GetValue
+Set
+Ping: 
+math
+floor
+ ms
+wait
